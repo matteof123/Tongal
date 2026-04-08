@@ -1,0 +1,103 @@
+{
+  "client": "Tongal",
+  "sync_date": "2026-04-02",
+  "company": {
+    "name": "Tongal",
+    "description": "Creator-powered production platform with 160,000+ creators across 175 countries. Broadcast-quality video, animation, and social content. Faster than agencies, lower cost, clients own everything.",
+    "uvp": [
+      "160,000 creators across 175 countries",
+      "10-30 creative submissions per project vs 2-3 from agencies",
+      "Faster delivery than agencies",
+      "Fraction of the cost",
+      "Clients own everything outright"
+    ]
+  },
+  "sender": {
+    "name": "Peter Kim",
+    "title": "Account Manager",
+    "company": "Tongal",
+    "domains": ["tongalhub.com", "tongalstudios.com", "tongalproductions.com", "tongalcreative.com", "tongalanimation.com", "tongalvideos.com"]
+  },
+  "icp": {
+    "tier1_enterprise": {
+      "revenue": "$500M+",
+      "headcount": "1000+",
+      "industries": ["DTC / E-commerce", "CPG / Food & Beverage", "Retail", "Health & Wellness"],
+      "titles": ["CMO", "VP Marketing", "VP Creative", "Head of Content", "Creative Director", "Head of Brand"]
+    },
+    "tier2_midmarket": {
+      "revenue": "$50M - $500M",
+      "headcount": "200-1000",
+      "industries": ["DTC / E-commerce", "CPG / Food & Beverage", "Retail", "Health & Wellness", "Tech/SaaS"],
+      "titles": ["CMO", "VP Marketing", "VP Creative", "Head of Content", "Creative Director", "Head of Brand", "Director of Marketing", "Director of Content", "Brand Manager"]
+    },
+    "exclusions": ["Advertising agencies", "Non-marketing titles (BDR, SDR, Sales)", "K-12 school districts", "Financial services", "Education"],
+    "esp_filter": "Google only"
+  },
+  "case_studies": {
+    "dtc_ecommerce": {
+      "primary": "BetterHelp",
+      "metric": "Cut CPA by 35% with creator-driven testimonial campaign, 50M+ impressions",
+      "secondary": ["Samsung", "Education.com"]
+    },
+    "cpg_fb": {
+      "primary": "LEGO",
+      "metric": "Broadcast quality social content through creator community",
+      "secondary": ["Nickelodeon", "Disney"]
+    },
+    "retail": {
+      "primary": "Samsung",
+      "metric": "Broadcast quality video and social content",
+      "secondary": ["BetterHelp", "LEGO"]
+    },
+    "health_wellness": {
+      "primary": "BetterHelp",
+      "metric": "Cut CPA by 35%, 50M+ impressions with testimonial campaign",
+      "secondary": ["Samsung", "Education.com"]
+    },
+    "tech_saas": {
+      "primary": "BetterHelp",
+      "metric": "Cut CPA by 35%, 50M+ impressions",
+      "secondary": ["Samsung", "Education.com"]
+    },
+    "entertainment_media": {
+      "primary": "Nickelodeon",
+      "secondary": ["Disney", "LEGO"]
+    }
+  },
+  "copy_rules": {
+    "word_count": "60-80 words per email",
+    "structure_email1": "Personalized hook → Social proof (brand names + metric) → Key differentiator → Soft CTA",
+    "structure_email2": "Industry angle on video → Different case study + 'one team, you own everything' → CTA",
+    "subject_line": "Max 3 words, company name Capitalized, other words lowercase, NO '{Company} + video production' pattern",
+    "cta_email1": "Worth exploring for {Company}?",
+    "cta_email2": "Would it make sense to share a few relevant samples?",
+    "ps_line": "If this isn't a fit, please let me know and I'll stop reaching out.",
+    "banned": ["em dashes", "exclamation marks", "spam words", "negative framing", "signature/Best/name"],
+    "no_signature": "Email body ends at CTA/PS. Signature handled by {SENDER_EMAIL_SIGNATURE}"
+  },
+  "what_works": {
+    "format": "Short-form (60-80 words) — 4.5-4.7% reply rate",
+    "proof": "Lead with brand names, not product description",
+    "cta": "Soft ask works ('Worth exploring?')",
+    "sending": "Google-to-Google best deliverability"
+  },
+  "what_doesnt_work": {
+    "subject_lines": "'{Company} + video production' is formulaic — needs variety",
+    "case_studies": "Same 3 names for every industry — must match vertical",
+    "long_copy": "200+ word emails get 2% reply rate with 8.6% bounce",
+    "stale_hooks": "'Recently started as...' often wrong — use company-level observations"
+  },
+  "campaign_platform": {
+    "tool": "EmailBison",
+    "workspace_id": "65",
+    "workspace_name": "Tongal",
+    "instance": "send.kinetyca.com"
+  },
+  "lead_source": {
+    "file": "/Users/matteofois/Downloads/Tongal.csv",
+    "total_leads": 1492,
+    "email_status": "All VERIFIED",
+    "source_type": "Pre-scraped CSV (Prospeo)"
+  }
+}

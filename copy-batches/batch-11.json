@@ -1,0 +1,1052 @@
+[
+  {
+    "full_name": "Chip Moloney",
+    "first_name": "Chip",
+    "email": "chip@themazegroup.com",
+    "email_status": "VERIFIED",
+    "company": "Maze",
+    "website": "https://themazegroup.com",
+    "job_title": "Chief Marketing Officer",
+    "linkedin_url": "https://www.linkedin.com/in/chip-moloney-00789863",
+    "company_linkedin": "https://www.linkedin.com/company/themazegroup",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Linda Gierahn",
+    "first_name": "Linda",
+    "email": "linda@silent-house.com",
+    "email_status": "VERIFIED",
+    "company": "Silent House",
+    "website": "https://silent-house.com",
+    "job_title": "Chief Content Officer/Head of Production",
+    "linkedin_url": "https://www.linkedin.com/in/linda-gierahn-82896538",
+    "company_linkedin": "https://www.linkedin.com/company/silent-house-group",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Anne Ghaltchi",
+    "first_name": "Anne",
+    "email": "anne@zerobounce.net",
+    "email_status": "VERIFIED",
+    "company": "ZeroBounce",
+    "website": "https://zerobounce.net",
+    "job_title": "Chief Marketing Officer",
+    "linkedin_url": "https://www.linkedin.com/in/anneghaltchi",
+    "company_linkedin": "https://www.linkedin.com/company/zerobounce-net",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Leah Koch",
+    "first_name": "Leah",
+    "email": "lkoch@imagineexhibitions.com",
+    "email_status": "VERIFIED",
+    "company": "Imagine",
+    "website": "https://theimagineteam.com",
+    "job_title": "Director of Digital Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/leah12",
+    "company_linkedin": "https://www.linkedin.com/company/the-imagine-team",
+    "industry": "CPG / Food & Beverage",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "LEGO",
+      "metric": "broadcast quality social content through our creator community",
+      "secondary": [
+        "Nickelodeon",
+        "Disney"
+      ]
+    }
+  },
+  {
+    "full_name": "Mary Beth Wilson",
+    "first_name": "Mary",
+    "email": "marybeth.wilson@arkestro.com",
+    "email_status": "VERIFIED",
+    "company": "Arkestro",
+    "website": "https://arkestro.com",
+    "job_title": "Director of Content Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/mary-beth-wilson",
+    "company_linkedin": "https://www.linkedin.com/company/arkestro",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "John Leavitt",
+    "first_name": "John",
+    "email": "john.leavitt@accushield.com",
+    "email_status": "VERIFIED",
+    "company": "Accushield",
+    "website": "https://accushield.com",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/johnleavitt",
+    "company_linkedin": "https://www.linkedin.com/company/accushield",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Jesse Himsworth",
+    "first_name": "Jesse",
+    "email": "jesseh@primecorporateservices.com",
+    "email_status": "VERIFIED",
+    "company": "Prime Corporate Services",
+    "website": "https://primecorporateservices.com",
+    "job_title": "Chief Marketing Officer",
+    "linkedin_url": "https://www.linkedin.com/in/jessehimsworth",
+    "company_linkedin": "https://www.linkedin.com/company/pcs-slc",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Scott Fielding",
+    "first_name": "Scott",
+    "email": "scott@seatedapp.io",
+    "email_status": "VERIFIED",
+    "company": "Seated",
+    "website": "https://seatedapp.io",
+    "job_title": "SVP of Growth & Analytics",
+    "linkedin_url": "https://www.linkedin.com/in/scott-fielding-71a4344a",
+    "company_linkedin": "https://www.linkedin.com/company/seatedofficial",
+    "industry": "Tech / SaaS",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Sabrina Sieck",
+    "first_name": "Sabrina",
+    "email": "sabrina@fangoria.com",
+    "email_status": "VERIFIED",
+    "company": "FANGORIA",
+    "website": "https://fangoria.com",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/sabrina-sieck-b9036651",
+    "company_linkedin": "https://www.linkedin.com/company/fangoria",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Rachel Wheeler",
+    "first_name": "Rachel",
+    "email": "rachel.wheeler@spotgenius.com",
+    "email_status": "VERIFIED",
+    "company": "SpotGenius",
+    "website": "https://spotgenius.com",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/rachel-wheeler-ctsm-silver-30004741",
+    "company_linkedin": "https://www.linkedin.com/company/spotgenius",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Anne Halstead",
+    "first_name": "Anne",
+    "email": "ahalstead@govspend.com",
+    "email_status": "VERIFIED",
+    "company": "GovSpend",
+    "website": "https://govspend.com",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/anne-halstead-4351a037",
+    "company_linkedin": "https://www.linkedin.com/company/govspendus",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Chris Smith",
+    "first_name": "Chris",
+    "email": "csmith@dnsfilter.com",
+    "email_status": "VERIFIED",
+    "company": "DNSFilter",
+    "website": "https://dnsfilter.com",
+    "job_title": "Chief Marketing Officer",
+    "linkedin_url": "https://www.linkedin.com/in/chris-smith-763b6a7",
+    "company_linkedin": "https://www.linkedin.com/company/dnsfilter",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Victor Yeh",
+    "first_name": "Victor",
+    "email": "vyeh@spokeo.com",
+    "email_status": "VERIFIED",
+    "company": "Spokeo",
+    "website": "https://spokeo.com",
+    "job_title": "SVP of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/victor-yeh-90306942",
+    "company_linkedin": "https://www.linkedin.com/company/spokeo",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Cassi Rosenbaum",
+    "first_name": "Cassi",
+    "email": "cassi@actualveggies.com",
+    "email_status": "VERIFIED",
+    "company": "Actual Veggies",
+    "website": "https://actualveggies.com",
+    "job_title": "Head Of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/cassi-rosenbaum-35aa58102",
+    "company_linkedin": "https://www.linkedin.com/company/actual-veggies",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Lindsey Schickner",
+    "first_name": "Lindsey",
+    "email": "lindsey@glamsquad.com",
+    "email_status": "VERIFIED",
+    "company": "GLAMSQUAD",
+    "website": "https://glamsquad.com",
+    "job_title": "Director of Brand Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/lindsey-schickner-a110801a",
+    "company_linkedin": "https://www.linkedin.com/company/glamsquad",
+    "industry": "DTC / E-commerce",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with a creator-driven testimonial campaign that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "LEGO"
+      ]
+    }
+  },
+  {
+    "full_name": "Allison Wasz",
+    "first_name": "Allison",
+    "email": "allison.wasz@mightynetworks.com",
+    "email_status": "VERIFIED",
+    "company": "Mighty Networks",
+    "website": "https://mightynetworks.com",
+    "job_title": "Director of Growth Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/allisonwasz",
+    "company_linkedin": "https://www.linkedin.com/company/mightynetworks",
+    "industry": "Tech / SaaS",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Ethan Albrecht-Carri\u00e9",
+    "first_name": "Ethan",
+    "email": "ealbrechtcarrie@limefresh.com",
+    "email_status": "VERIFIED",
+    "company": "LIME Fresh Mexican Grill",
+    "website": "https://limefreshmexicangrill.com",
+    "job_title": "VP of Growth and Franchise Development",
+    "linkedin_url": "https://www.linkedin.com/in/ethan-albrecht-carri\u00e9-9070387",
+    "company_linkedin": "https://www.linkedin.com/company/lime-fresh-mexican-grill",
+    "industry": "CPG / Food & Beverage",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "LEGO",
+      "metric": "broadcast quality social content through our creator community",
+      "secondary": [
+        "Nickelodeon",
+        "Disney"
+      ]
+    }
+  },
+  {
+    "full_name": "Eric Wellinghoff",
+    "first_name": "Eric",
+    "email": "ewellinghoff@nehemiahmfg.com",
+    "email_status": "VERIFIED",
+    "company": "Nehemiah Manufacturing Company",
+    "website": "https://nehemiahmfg.com",
+    "job_title": "Chief Marketing Officer",
+    "linkedin_url": "https://www.linkedin.com/in/eric-wellinghoff-6112489",
+    "company_linkedin": "https://www.linkedin.com/company/nehemiah-manufacturing-company",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Courtney Barwick",
+    "first_name": "Courtney",
+    "email": "courtney.barwick@etix.com",
+    "email_status": "VERIFIED",
+    "company": "Etix",
+    "website": "https://etix.com",
+    "job_title": "Director of Digital Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/courtney-barwick-45b814142",
+    "company_linkedin": "https://www.linkedin.com/company/etix",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Frances Luong",
+    "first_name": "Frances",
+    "email": "francesl@3natives.com",
+    "email_status": "VERIFIED",
+    "company": "3Natives Acai Cafe",
+    "website": "https://3natives.com",
+    "job_title": "CMO",
+    "linkedin_url": "https://www.linkedin.com/in/francesluong",
+    "company_linkedin": "https://www.linkedin.com/company/3natives",
+    "industry": "CPG / Food & Beverage",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "LEGO",
+      "metric": "broadcast quality social content through our creator community",
+      "secondary": [
+        "Nickelodeon",
+        "Disney"
+      ]
+    }
+  },
+  {
+    "full_name": "Joanie B.",
+    "first_name": "Joanie",
+    "email": "joanie@adapex.io",
+    "email_status": "VERIFIED",
+    "company": "Adapex",
+    "website": "https://adapex.io",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/joanie-b-9222b2172",
+    "company_linkedin": "https://www.linkedin.com/company/adapex-inc",
+    "industry": "Tech / SaaS",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Faith Prescott",
+    "first_name": "Faith",
+    "email": "faith.prescott@mycoitracking.com",
+    "email_status": "VERIFIED",
+    "company": "myCOI",
+    "website": "https://illumend.ai",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/fprescott",
+    "company_linkedin": "https://www.linkedin.com/company/illumend",
+    "industry": "Tech / SaaS",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Laura Bolivar",
+    "first_name": "Laura",
+    "email": "lbolivar@ticketon.com",
+    "email_status": "VERIFIED",
+    "company": "Ticket\u00f3n",
+    "website": "https://ticketon.com",
+    "job_title": "Director of Brand Partnerships",
+    "linkedin_url": "https://www.linkedin.com/in/laura-bolivar-moncada",
+    "company_linkedin": "https://www.linkedin.com/company/ticketon",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Meredith Lenoir",
+    "first_name": "Meredith",
+    "email": "mlenoir@everydayhealthgroup.com",
+    "email_status": "VERIFIED",
+    "company": "Everyday Health",
+    "website": "https://everydayhealth.com",
+    "job_title": "Senior Director Of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/meredithlenoir",
+    "company_linkedin": "https://www.linkedin.com/company/everydayhealth",
+    "industry": "Health & Wellness",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with a creator-driven testimonial campaign that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Lola Feiger",
+    "first_name": "Lola",
+    "email": "lola@risescience.com",
+    "email_status": "VERIFIED",
+    "company": "Rise Science",
+    "website": "https://risescience.com",
+    "job_title": "Head Of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/lola-feiger-b233a0a",
+    "company_linkedin": "https://www.linkedin.com/company/rise-science",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Jackie Wylie",
+    "first_name": "Jackie",
+    "email": "jackie@middesk.com",
+    "email_status": "VERIFIED",
+    "company": "Middesk",
+    "website": "https://middesk.com",
+    "job_title": "Head of Marketing & Sales Development",
+    "linkedin_url": "https://www.linkedin.com/in/jackielogan",
+    "company_linkedin": "https://www.linkedin.com/company/middesk",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Megan Abbott",
+    "first_name": "Megan",
+    "email": "megan@drinkhiyo.com",
+    "email_status": "VERIFIED",
+    "company": "hiyo",
+    "website": "https://drinkhiyo.com",
+    "job_title": "Director of Marketing - Retail",
+    "linkedin_url": "https://www.linkedin.com/in/meganlabbott",
+    "company_linkedin": "https://www.linkedin.com/company/drinkhiyo",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Ren\u00e9 Puerta",
+    "first_name": "Ren\u00e9",
+    "email": "rene@gregoryscoffee.com",
+    "email_status": "VERIFIED",
+    "company": "Gregorys Coffee",
+    "website": "https://gregoryscoffee.com",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/renepuerta",
+    "company_linkedin": "https://www.linkedin.com/company/gregorys-coffee",
+    "industry": "CPG / Food & Beverage",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "LEGO",
+      "metric": "broadcast quality social content through our creator community",
+      "secondary": [
+        "Nickelodeon",
+        "Disney"
+      ]
+    }
+  },
+  {
+    "full_name": "Thomas Sawatzke",
+    "first_name": "Thomas",
+    "email": "toms@aruxsoftware.com",
+    "email_status": "VERIFIED",
+    "company": "Arux",
+    "website": "https://aruxsoftware.com",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/thomas-sawatzke-40329b5a",
+    "company_linkedin": "https://www.linkedin.com/company/arux-software",
+    "industry": "Tech / SaaS",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Eva Wei",
+    "first_name": "Eva",
+    "email": "eva@workwhilejobs.com",
+    "email_status": "VERIFIED",
+    "company": "WorkWhile",
+    "website": "https://workwhile.ai",
+    "job_title": "Head of Marketing (B2B)",
+    "linkedin_url": "https://www.linkedin.com/in/evaywei",
+    "company_linkedin": "https://www.linkedin.com/company/workwhilejobs",
+    "industry": "Tech / SaaS",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Adam Scott Riff",
+    "first_name": "Adam",
+    "email": "ariff@experigreen.com",
+    "email_status": "VERIFIED",
+    "company": "ExperiGreen Lawn Care",
+    "website": "https://experigreen.com",
+    "job_title": "Chief Marketing Officer",
+    "linkedin_url": "https://www.linkedin.com/in/adamriff",
+    "company_linkedin": "https://www.linkedin.com/company/experigreen-lawncare",
+    "industry": "Health & Wellness",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with a creator-driven testimonial campaign that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Caroline Sisson",
+    "first_name": "Caroline",
+    "email": "caroline@hsbeer.com",
+    "email_status": "VERIFIED",
+    "company": "Heavy Seas Beer",
+    "website": "https://heavyseasbeer.com",
+    "job_title": "Director of Marketing/Hospitality",
+    "linkedin_url": "https://www.linkedin.com/in/caroline-sisson-b63446a8",
+    "company_linkedin": "https://www.linkedin.com/company/heavy-seas-beer",
+    "industry": "CPG / Food & Beverage",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "LEGO",
+      "metric": "broadcast quality social content through our creator community",
+      "secondary": [
+        "Nickelodeon",
+        "Disney"
+      ]
+    }
+  },
+  {
+    "full_name": "Lindsey Besson",
+    "first_name": "Lindsey",
+    "email": "lindsey.besson@zirous.com",
+    "email_status": "VERIFIED",
+    "company": "Zirous",
+    "website": "https://zirous.com",
+    "job_title": "Director of Marketing and Sales Strategy",
+    "linkedin_url": "https://www.linkedin.com/in/lindsey-besson-32912a134",
+    "company_linkedin": "https://www.linkedin.com/company/zirous",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Joe Flores",
+    "first_name": "Joe",
+    "email": "joe.flores@sitickets.com",
+    "email_status": "VERIFIED",
+    "company": "Sports Illustrated Tickets",
+    "website": "https://sitickets.com",
+    "job_title": "Chief Marketing Officer",
+    "linkedin_url": "https://www.linkedin.com/in/joeflores1",
+    "company_linkedin": "https://www.linkedin.com/company/si-tickets",
+    "industry": "Entertainment / Media",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "Nickelodeon",
+      "metric": "broadcast quality video, animation, and social content",
+      "secondary": [
+        "Disney",
+        "LEGO"
+      ]
+    }
+  },
+  {
+    "full_name": "Courtney O'Rourke",
+    "first_name": "Courtney",
+    "email": "courtney@skinnypancake.com",
+    "email_status": "VERIFIED",
+    "company": "The Skinny Pancake",
+    "website": "https://skinnypancake.com",
+    "job_title": "Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/courtneyo",
+    "company_linkedin": "https://www.linkedin.com/company/the-skinny-pancake",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Daphne Earp Hoppenot",
+    "first_name": "Daphne",
+    "email": "daphne.hoppenot@voyantis.ai",
+    "email_status": "VERIFIED",
+    "company": "Voyantis",
+    "website": "https://voyantis.ai",
+    "job_title": "CMO",
+    "linkedin_url": "https://www.linkedin.com/in/daphneearp",
+    "company_linkedin": "https://www.linkedin.com/company/voyantis",
+    "industry": "Tech / SaaS",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Lauren Rueger",
+    "first_name": "Lauren",
+    "email": "lrueger@hopskipdrive.com",
+    "email_status": "VERIFIED",
+    "company": "HopSkipDrive",
+    "website": "https://hopskipdrive.com",
+    "job_title": "Sr. Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/laurenrueger",
+    "company_linkedin": "https://www.linkedin.com/company/hopskipdrive",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Melinda Kennedy",
+    "first_name": "Melinda",
+    "email": "melinda@thespicehouse.com",
+    "email_status": "VERIFIED",
+    "company": "The Spice House",
+    "website": "https://thespicehouse.com",
+    "job_title": "VP of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/melinda-kennedy-16677530",
+    "company_linkedin": "https://www.linkedin.com/company/thespicehouse",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Sara Berman",
+    "first_name": "Sara",
+    "email": "sara@sietefoods.com",
+    "email_status": "VERIFIED",
+    "company": "Siete Foods",
+    "website": "https://sietefoods.com",
+    "job_title": "Senior Director of Brand Experience",
+    "linkedin_url": "https://www.linkedin.com/in/sara-berman-b60a862b",
+    "company_linkedin": "https://www.linkedin.com/company/siete-foods",
+    "industry": "CPG / Food & Beverage",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "LEGO",
+      "metric": "broadcast quality social content through our creator community",
+      "secondary": [
+        "Nickelodeon",
+        "Disney"
+      ]
+    }
+  },
+  {
+    "full_name": "Barrett Bodine",
+    "first_name": "Barrett",
+    "email": "barrett@brand-knew.com",
+    "email_status": "VERIFIED",
+    "company": "Brand Knew",
+    "website": "https://brand-knew.com",
+    "job_title": "Director of Branding",
+    "linkedin_url": "https://www.linkedin.com/in/barrettbodine",
+    "company_linkedin": "https://www.linkedin.com/company/brand-knew",
+    "industry": "DTC / E-commerce",
+    "icp_score": "HOT",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with a creator-driven testimonial campaign that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "LEGO"
+      ]
+    }
+  },
+  {
+    "full_name": "Janine Wald",
+    "first_name": "Janine",
+    "email": "janine@landbase.com",
+    "email_status": "VERIFIED",
+    "company": "Landbase",
+    "website": "https://landbase.com",
+    "job_title": "Head of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/janine-wald-a16a846a",
+    "company_linkedin": "https://www.linkedin.com/company/landbase",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Stanley Lin",
+    "first_name": "Stanley",
+    "email": "stanley@predactiv.com",
+    "email_status": "VERIFIED",
+    "company": "Predactiv",
+    "website": "https://predactiv.com",
+    "job_title": "Director of Marketing | Growth & Demand Generation",
+    "linkedin_url": "https://www.linkedin.com/in/stlin123",
+    "company_linkedin": "https://www.linkedin.com/company/predactiv",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Alissa Reiter",
+    "first_name": "Alissa",
+    "email": "ar@nerdwallet.com",
+    "email_status": "VERIFIED",
+    "company": "NerdWallet",
+    "website": "https://nerdwallet.com",
+    "job_title": "Interim CMO",
+    "linkedin_url": "https://www.linkedin.com/in/alissareiter",
+    "company_linkedin": "https://www.linkedin.com/company/nerdwallet",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Kristina Gannotta",
+    "first_name": "Kristina",
+    "email": "kgannotta@niche.com",
+    "email_status": "VERIFIED",
+    "company": "Niche",
+    "website": "https://niche.com",
+    "job_title": "Director of Growth Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/kristina-g-0b494735",
+    "company_linkedin": "https://www.linkedin.com/company/nichesocial",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Angela Gruszka",
+    "first_name": "Angela",
+    "email": "agruszka@charitybuzz.com",
+    "email_status": "VERIFIED",
+    "company": "Charitybuzz",
+    "website": "https://charitybuzz.com",
+    "job_title": "VP of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/angelagruszka",
+    "company_linkedin": "https://www.linkedin.com/company/charitybuzz",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Peter Kurjanowicz",
+    "first_name": "Peter",
+    "email": "peter@everflow.io",
+    "email_status": "VERIFIED",
+    "company": "Everflow - Partner Marketing Platform",
+    "website": "https://everflow.io",
+    "job_title": "VP of Growth & Account Management",
+    "linkedin_url": "https://www.linkedin.com/in/peterkurjanowicz",
+    "company_linkedin": "https://www.linkedin.com/company/everflowio",
+    "industry": "Tech / SaaS",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35%, serving 50M+ impressions through creator-driven testimonials",
+      "secondary": [
+        "Samsung",
+        "Education.com"
+      ]
+    }
+  },
+  {
+    "full_name": "Hillary Noble",
+    "first_name": "Hillary",
+    "email": "hillary@helpscout.com",
+    "email_status": "VERIFIED",
+    "company": "Help Scout",
+    "website": "https://helpscout.com",
+    "job_title": "Director of Content",
+    "linkedin_url": "https://www.linkedin.com/in/hillaryjnoble",
+    "company_linkedin": "https://www.linkedin.com/company/help-scout",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Shannon Frost",
+    "first_name": "Shannon",
+    "email": "shannon@podiumentertainment.com",
+    "email_status": "VERIFIED",
+    "company": "Podium Entertainment",
+    "website": "https://podiumentertainment.com",
+    "job_title": "Director of Growth Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/shannon-frost",
+    "company_linkedin": "https://www.linkedin.com/company/podiumentertainment",
+    "industry": "Entertainment / Media",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "Nickelodeon",
+      "metric": "broadcast quality video, animation, and social content",
+      "secondary": [
+        "Disney",
+        "LEGO"
+      ]
+    }
+  },
+  {
+    "full_name": "Teddy Cheek",
+    "first_name": "Teddy",
+    "email": "teddy@theescapegame.com",
+    "email_status": "VERIFIED",
+    "company": "The Escape Game",
+    "website": "https://theescapegame.com",
+    "job_title": "Sr. Director of Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/teddycheek",
+    "company_linkedin": "https://www.linkedin.com/company/the-escape-game",
+    "industry": "Other",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "BetterHelp",
+      "metric": "cut CPA by 35% with creator-driven testimonials that served 50M+ impressions",
+      "secondary": [
+        "Samsung",
+        "Nickelodeon"
+      ]
+    }
+  },
+  {
+    "full_name": "Lexi Roney",
+    "first_name": "Lexi",
+    "email": "lexi@stem.is",
+    "email_status": "VERIFIED",
+    "company": "Stem Disintermedia",
+    "website": "https://stem.is",
+    "job_title": "Director of Brand Marketing",
+    "linkedin_url": "https://www.linkedin.com/in/alexisroney",
+    "company_linkedin": "https://www.linkedin.com/company/stem-disintermedia",
+    "industry": "Entertainment / Media",
+    "icp_score": "WARM",
+    "case_studies": {
+      "primary": "Nickelodeon",
+      "metric": "broadcast quality video, animation, and social content",
+      "secondary": [
+        "Disney",
+        "LEGO"
+      ]
+    }
+  }
+]

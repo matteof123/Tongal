@@ -1,0 +1,7245 @@
+{
+  "total_companies": 882,
+  "batches": 36,
+  "companies": [
+    {
+      "company": "AllTrails",
+      "website": "https://alltrails.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Claire Ivry Gonzales",
+        "Stephanie Asper",
+        "Carly Smith"
+      ]
+    },
+    {
+      "company": "The Matchmaking Company",
+      "website": "https://matchmakingcompany.com",
+      "industry": "Other",
+      "leads": [
+        "Kate Gould"
+      ]
+    },
+    {
+      "company": "America's Incredible Pizza Company",
+      "website": "https://incrediblepizza.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Ryan Tiffin"
+      ]
+    },
+    {
+      "company": "All Things Go",
+      "website": "https://allthingsgofestival.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Kelsey Mckenna",
+        "Christian Manos"
+      ]
+    },
+    {
+      "company": "Philo",
+      "website": "https://philo.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Matt Stein",
+        "Chris Padilla",
+        "Adam Salmons"
+      ]
+    },
+    {
+      "company": "TalentPop",
+      "website": "https://talentpop.co",
+      "industry": "Other",
+      "leads": [
+        "Kara Peneguy"
+      ]
+    },
+    {
+      "company": "Feel Good Foods",
+      "website": "https://feelgf.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Samantha Set",
+        "Max Sauberman"
+      ]
+    },
+    {
+      "company": "Axiom Eco-Pest Control",
+      "website": "https://axiompest.com",
+      "industry": "Other",
+      "leads": [
+        "Christian Riley",
+        "Matt Goldfain"
+      ]
+    },
+    {
+      "company": "Lucky Energy",
+      "website": "https://luckybevco.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Hamid Saify"
+      ]
+    },
+    {
+      "company": "Citizen Health",
+      "website": "https://citizen.health",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Max Kornblith"
+      ]
+    },
+    {
+      "company": "tonies\u00ae USA",
+      "website": "https://tonies.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Taylor Smith"
+      ]
+    },
+    {
+      "company": "Mighty Networks",
+      "website": "https://mightynetworks.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Darrell Vesterfelt",
+        "Jonah Cohen",
+        "Allison Wasz"
+      ]
+    },
+    {
+      "company": "Yamamotoyama",
+      "website": "https://yamamotoyama.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Jessica Kelly"
+      ]
+    },
+    {
+      "company": "Siete Foods",
+      "website": "https://sietefoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Erika Allen-Walsh",
+        "Bayley Bennett",
+        "Sara Berman"
+      ]
+    },
+    {
+      "company": "ONTHEMARC Events & Catering",
+      "website": "https://onthemarcevents.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Bella Carrara"
+      ]
+    },
+    {
+      "company": "Torii",
+      "website": "https://toriihq.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Chris Shuptrine"
+      ]
+    },
+    {
+      "company": "Pacific Coast Grill",
+      "website": "https://pacificcoastgrill.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Beth Bennett"
+      ]
+    },
+    {
+      "company": "IronVest",
+      "website": "https://ironvest.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Lilach Shenker"
+      ]
+    },
+    {
+      "company": "Partytrick",
+      "website": "https://partytrick.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Jill Brower"
+      ]
+    },
+    {
+      "company": "Purely Elizabeth",
+      "website": "https://purelyelizabeth.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Cherry Joh"
+      ]
+    },
+    {
+      "company": "Ketone-IQ",
+      "website": "https://ketone.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Michael Lee",
+        "Greg Washburn"
+      ]
+    },
+    {
+      "company": "SilverXis",
+      "website": "https://silverxis.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jason Dodge"
+      ]
+    },
+    {
+      "company": "Allora Labs",
+      "website": "https://alloralabs.xyz",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Tayeb Kenzari"
+      ]
+    },
+    {
+      "company": "Playground",
+      "website": "https://playground.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Amelia Salyers"
+      ]
+    },
+    {
+      "company": "Transmit",
+      "website": "https://transmit.live",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Lindsey Dobbs"
+      ]
+    },
+    {
+      "company": "Nehemiah Manufacturing Company",
+      "website": "https://nehemiahmfg.com",
+      "industry": "Other",
+      "leads": [
+        "Kristen Schumacher",
+        "Eric Wellinghoff"
+      ]
+    },
+    {
+      "company": "CareRev",
+      "website": "https://carerev.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Amanda Krigner"
+      ]
+    },
+    {
+      "company": "Poppin",
+      "website": "https://joinpopp.in",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Jackie Trinh"
+      ]
+    },
+    {
+      "company": "Ordergroove",
+      "website": "https://ordergroove.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Eric Andrews"
+      ]
+    },
+    {
+      "company": "Estate",
+      "website": "https://estatemedia.co",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Scott Rosman",
+        "Michael Drummonds"
+      ]
+    },
+    {
+      "company": "GoNoodle",
+      "website": "https://gonoodle.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Sarah Priest Halloran",
+        "Katie Johnston"
+      ]
+    },
+    {
+      "company": "Outback Presents",
+      "website": "https://outbackpresents.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Lori Shapiro",
+        "Justin Hawkins"
+      ]
+    },
+    {
+      "company": "Five Iron Golf",
+      "website": "https://fiveirongolf.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Jed Lewis",
+        "David Nadler",
+        "Christina Bellero"
+      ]
+    },
+    {
+      "company": "Men In Blazers Media Network",
+      "website": "https://meninblazers.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Kenny Crocker"
+      ]
+    },
+    {
+      "company": "eForms",
+      "website": "https://eforms.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Morgan Sliff",
+        "Molly Lockwood Kahn"
+      ]
+    },
+    {
+      "company": "Pure Project",
+      "website": "https://purebrewing.org",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Makenna Barris"
+      ]
+    },
+    {
+      "company": "Beacons AI",
+      "website": "",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kaitlin Macholz",
+        "Sabrina Haschak"
+      ]
+    },
+    {
+      "company": "Mane",
+      "website": "https://heymane.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Amy Turman"
+      ]
+    },
+    {
+      "company": "Halda.AI",
+      "website": "https://halda.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Angela Brown"
+      ]
+    },
+    {
+      "company": "The Music Hall, Portsmouth, NH",
+      "website": "https://themusichall.org",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Ryan Klink"
+      ]
+    },
+    {
+      "company": "Fox in the Snow Cafes",
+      "website": "https://foxinthesnow.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Ashley Schussler"
+      ]
+    },
+    {
+      "company": "Clerk.com",
+      "website": "https://clerk.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Alex Rapp",
+        "Nick Parsons"
+      ]
+    },
+    {
+      "company": "Matik",
+      "website": "https://matik.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Rebecca Sekar"
+      ]
+    },
+    {
+      "company": "Storygrounds",
+      "website": "https://storygrounds.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Linda Giang"
+      ]
+    },
+    {
+      "company": "Storypod",
+      "website": "https://storypod.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Gaston Blanchet"
+      ]
+    },
+    {
+      "company": "Palette Media",
+      "website": "https://palettemedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Matt Maguire"
+      ]
+    },
+    {
+      "company": "Nurture Life",
+      "website": "https://nurturelife.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Lucas Gottlieb",
+        "Katie Klepek"
+      ]
+    },
+    {
+      "company": "Clozd",
+      "website": "https://clozd.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Matt Payne"
+      ]
+    },
+    {
+      "company": "Cambium",
+      "website": "https://cambiumcarbon.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Melanie Heyside"
+      ]
+    },
+    {
+      "company": "Spiritless",
+      "website": "https://spiritless.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Tom Santangelo"
+      ]
+    },
+    {
+      "company": "GrowthX AI",
+      "website": "https://growthx.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jason Gong",
+        "Matthew Panzarino"
+      ]
+    },
+    {
+      "company": "pgEdge",
+      "website": "https://pgedge.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kathleen Tassa"
+      ]
+    },
+    {
+      "company": "wildwonder",
+      "website": "https://drinkwildwonder.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Margie Clark"
+      ]
+    },
+    {
+      "company": "Gourmet Nut",
+      "website": "https://gourmetnut.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Dennis Peters"
+      ]
+    },
+    {
+      "company": "Gc Ai",
+      "website": "https://gc.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Mary Williams"
+      ]
+    },
+    {
+      "company": "MakeMyMove",
+      "website": "https://makemymove.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Christie Luther Hurst"
+      ]
+    },
+    {
+      "company": "Turbo AI",
+      "website": "https://turbo.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Nick Pothoven",
+        "Tae Lee"
+      ]
+    },
+    {
+      "company": "BeatBox",
+      "website": "https://beatboxbeverages.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Matt Tighe"
+      ]
+    },
+    {
+      "company": "WIF",
+      "website": "https://wif.org",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Chandra Jackson"
+      ]
+    },
+    {
+      "company": "100 Thieves",
+      "website": "https://100thieves.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Daniel Kennedy",
+        "Gabriel Ruiz"
+      ]
+    },
+    {
+      "company": "Flexa",
+      "website": "https://flexa.co",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Imani Heath"
+      ]
+    },
+    {
+      "company": "MagicLinks",
+      "website": "https://magiclinks.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Melissa Roer"
+      ]
+    },
+    {
+      "company": "Verve Coffee Roasters",
+      "website": "https://vervecoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Katie Kelso"
+      ]
+    },
+    {
+      "company": "Angel",
+      "website": "https://angel.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Christina Boothe",
+        "Jeffrey Harmon",
+        "Isaac Ericksen"
+      ]
+    },
+    {
+      "company": "Compass Mining",
+      "website": "https://compassmining.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Erick Fenelus"
+      ]
+    },
+    {
+      "company": "SuperCircle",
+      "website": "https://supercircle.world",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Katie Volker"
+      ]
+    },
+    {
+      "company": "LineLeap",
+      "website": "https://lineleap.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Jenay Sellers"
+      ]
+    },
+    {
+      "company": "CleanConnect.ai",
+      "website": "https://cleanconnect.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Luke Coats"
+      ]
+    },
+    {
+      "company": "Stuf Storage",
+      "website": "https://stufstorage.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "David Thompson"
+      ]
+    },
+    {
+      "company": "RepRally",
+      "website": "https://reprally.com",
+      "industry": "Other",
+      "leads": [
+        "Jordan Siskin"
+      ]
+    },
+    {
+      "company": "Autograph",
+      "website": "https://ag.fan",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Joe Perez"
+      ]
+    },
+    {
+      "company": "Yellowbird\u00ae",
+      "website": "https://yellowbirdsauce.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Erin Link"
+      ]
+    },
+    {
+      "company": "Sunblink",
+      "website": "https://sunblink.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Logan Beck Beru"
+      ]
+    },
+    {
+      "company": "Ylopo",
+      "website": "https://ylopo.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Edwina Loh",
+        "Michelle Siesky",
+        "Violet Carne"
+      ]
+    },
+    {
+      "company": "Function Health",
+      "website": "https://functionhealth.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Erika Brickley",
+        "Adden Laughlin Silverman",
+        "Kelly Johnson",
+        "Emma Nemtin"
+      ]
+    },
+    {
+      "company": "Maev",
+      "website": "https://meetmaev.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Maddy Tank",
+        "Tara Yavorsky"
+      ]
+    },
+    {
+      "company": "GLAMSQUAD",
+      "website": "https://glamsquad.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Simona Gaudio",
+        "Lindsey Schickner",
+        "Giovanni Vaccaro"
+      ]
+    },
+    {
+      "company": "Just Slide Media",
+      "website": "https://justslidemedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Samantha Lewe"
+      ]
+    },
+    {
+      "company": "Quality Heating & Cooling",
+      "website": "https://qualityheatingandcooling.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Ken Noah"
+      ]
+    },
+    {
+      "company": "Arcade",
+      "website": "https://arcade.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Savannah Moss"
+      ]
+    },
+    {
+      "company": "Drake's Brewing Company",
+      "website": "https://drinkdrakes.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Megan Lunetta"
+      ]
+    },
+    {
+      "company": "Alt",
+      "website": "https://alt.xyz",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Cassidy Sepnieski"
+      ]
+    },
+    {
+      "company": "Buzz Franchise Brands",
+      "website": "https://buzzfranchisebrands.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Angela Zerda Paules",
+        "Jacob Brown"
+      ]
+    },
+    {
+      "company": "NeuBird.ai",
+      "website": "https://neubird.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Shilpi Srivastava"
+      ]
+    },
+    {
+      "company": "Hummingbird",
+      "website": "https://hummingbird.co",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Courtney Chuang"
+      ]
+    },
+    {
+      "company": "Maxwell Social",
+      "website": "https://maxwellsocial.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Emily Sigman"
+      ]
+    },
+    {
+      "company": "UVeye",
+      "website": "https://uveye.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Yaron Saghiv",
+        "Antonette Desiervo"
+      ]
+    },
+    {
+      "company": "Squeeze In Breakfast and Lunch",
+      "website": "https://squeezein.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kay Young"
+      ]
+    },
+    {
+      "company": "L&L Hawaiian Barbecue",
+      "website": "https://hawaiianbarbecue.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kat Garcia"
+      ]
+    },
+    {
+      "company": "CodaMetrix",
+      "website": "https://codametrix.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Carly Rose"
+      ]
+    },
+    {
+      "company": "Golden Steer",
+      "website": "https://goldensteerlasvegas.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Larissa Brizuela"
+      ]
+    },
+    {
+      "company": "Dispatch",
+      "website": "https://dispatch.me",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Sonja Torborg"
+      ]
+    },
+    {
+      "company": "Letterhead",
+      "website": "https://tryletterhead.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Bruce Pinchbeck"
+      ]
+    },
+    {
+      "company": "Everflow - Partner Marketing Platform",
+      "website": "https://everflow.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Michael Cole",
+        "Peter Kurjanowicz"
+      ]
+    },
+    {
+      "company": "RippleMatch",
+      "website": "https://ripplematch.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Desir\u00e9e O'Riley"
+      ]
+    },
+    {
+      "company": "Local Splash - Local SEO Company",
+      "website": "https://localsplash.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jeremy Auestad"
+      ]
+    },
+    {
+      "company": "Perion",
+      "website": "https://perion.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Erin Mccallion"
+      ]
+    },
+    {
+      "company": "Pioneer Sports & Entertainment",
+      "website": "https://pioneersports.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Erin Bice"
+      ]
+    },
+    {
+      "company": "Empathy",
+      "website": "https://empathy.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Cindy Goodrich"
+      ]
+    },
+    {
+      "company": "Zingerman's",
+      "website": "https://zingermans.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Paige Biskaduros"
+      ]
+    },
+    {
+      "company": "Purecare\u00ae Home",
+      "website": "https://purecare.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Sarah Bergman",
+        "Kayla Melbye"
+      ]
+    },
+    {
+      "company": "RebelMouse",
+      "website": "https://rebelmouse.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Adam Taylor"
+      ]
+    },
+    {
+      "company": "Unreal Snacks",
+      "website": "https://unrealsnacks.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Brooke Palandro",
+        "Colin Flood"
+      ]
+    },
+    {
+      "company": "Kizen",
+      "website": "https://kizen.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Korey Ashton"
+      ]
+    },
+    {
+      "company": "Truepic",
+      "website": "https://truepic.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Adam Kerin"
+      ]
+    },
+    {
+      "company": "Classic Cinemas",
+      "website": "https://classiccinemas.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Jim Toth"
+      ]
+    },
+    {
+      "company": "AskTuring.ai",
+      "website": "https://askturing.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jose L. Roqueni"
+      ]
+    },
+    {
+      "company": "1touch.io",
+      "website": "https://1touch.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Mahesh Iyer"
+      ]
+    },
+    {
+      "company": "Roni's Mac Bar",
+      "website": "https://ronismacbar.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Bo Mello"
+      ]
+    },
+    {
+      "company": "ib\u00fc\u00fcmerang",
+      "website": "https://ibuumerang.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Mark Kithcart"
+      ]
+    },
+    {
+      "company": "Arbital Health",
+      "website": "https://arbitalhealth.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Kristen Chapey"
+      ]
+    },
+    {
+      "company": "Liquid Death",
+      "website": "https://liquiddeath.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Lia Alberti Daniel",
+        "Tia Sherwood",
+        "Sterling Anton",
+        "Greg Fass"
+      ]
+    },
+    {
+      "company": "Crusoe",
+      "website": "https://crusoe.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "David Da Silva",
+        "Gaurav Nihalani"
+      ]
+    },
+    {
+      "company": "Bear",
+      "website": "https://beargroup.com",
+      "industry": "Other",
+      "leads": [
+        "Erin Garrett"
+      ]
+    },
+    {
+      "company": "OWS Foods",
+      "website": "https://oldworldspices.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Amanda Emerson"
+      ]
+    },
+    {
+      "company": "Genuin",
+      "website": "https://begenuin.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Matt Wurst"
+      ]
+    },
+    {
+      "company": "Wander",
+      "website": "https://wander.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Kyle Tibbitts"
+      ]
+    },
+    {
+      "company": "Koddi",
+      "website": "https://koddi.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Danielle Hoverman"
+      ]
+    },
+    {
+      "company": "Yogi",
+      "website": "https://meetyogi.com",
+      "industry": "Other",
+      "leads": [
+        "Mariya Babaskina"
+      ]
+    },
+    {
+      "company": "Breezeway",
+      "website": "https://breezeway.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ben Firn"
+      ]
+    },
+    {
+      "company": "Samba TV",
+      "website": "https://samba.tv",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jim Tarr",
+        "Rebecca Calejo",
+        "Michela Fitten"
+      ]
+    },
+    {
+      "company": "Arena Club",
+      "website": "https://arenaclub.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Jay Roberts"
+      ]
+    },
+    {
+      "company": "D3",
+      "website": "https://d3.com",
+      "industry": "Other",
+      "leads": [
+        "Mark Trang"
+      ]
+    },
+    {
+      "company": "Allwyn North America",
+      "website": "https://allwyn-northamerica.com",
+      "industry": "Other",
+      "leads": [
+        "Lauren Averill"
+      ]
+    },
+    {
+      "company": "Embrace",
+      "website": "https://embrace.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Molly Moriarty"
+      ]
+    },
+    {
+      "company": "Allium - Salesforce Consultants: Integrations, Implementations and Optimization",
+      "website": "https://allium-solutions.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Corrine Allard"
+      ]
+    },
+    {
+      "company": "Impossible Foods",
+      "website": "https://impossiblefoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Clarissa Tovar"
+      ]
+    },
+    {
+      "company": "Dualboot Partners",
+      "website": "https://dualbootpartners.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Adam Brown"
+      ]
+    },
+    {
+      "company": "Caliwater",
+      "website": "https://drinkcaliwater.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Eric Gwizdala"
+      ]
+    },
+    {
+      "company": "Direct Commerce",
+      "website": "https://directcommerce.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Brent Love"
+      ]
+    },
+    {
+      "company": "Scoremore Holdings",
+      "website": "https://scoremoreshows.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Grant Waring"
+      ]
+    },
+    {
+      "company": "Sharpvue - Mobile Ai Surveillance Trailers",
+      "website": "https://sharpvue.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Adam Russell"
+      ]
+    },
+    {
+      "company": "De Soi",
+      "website": "https://drinkdesoi.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Amruta Vyas"
+      ]
+    },
+    {
+      "company": "Smartcat",
+      "website": "https://smartcat.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Nicole Dinicola"
+      ]
+    },
+    {
+      "company": "Mustard",
+      "website": "https://mustard.love",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Vince Wang",
+        "Diana Might"
+      ]
+    },
+    {
+      "company": "Storied",
+      "website": "https://storied.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Brandon Camp"
+      ]
+    },
+    {
+      "company": "TrophySmack",
+      "website": "https://trophysmack.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Josh Weaver"
+      ]
+    },
+    {
+      "company": "Sofar Ocean",
+      "website": "https://sofarocean.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Michele Morelli",
+        "Amanda Roberts"
+      ]
+    },
+    {
+      "company": "Silna",
+      "website": "https://silnahealth.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Maddy Sherman"
+      ]
+    },
+    {
+      "company": "Ingenio",
+      "website": "https://ingenio.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ariana Hellebuyck",
+        "Rebecca Luccitti"
+      ]
+    },
+    {
+      "company": "LangChain",
+      "website": "https://langchain.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Diana Smith"
+      ]
+    },
+    {
+      "company": "Acuvity",
+      "website": "https://acuvity.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Steven Webster"
+      ]
+    },
+    {
+      "company": "Sensible Weather",
+      "website": "https://sensibleweather.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Blair Staunton"
+      ]
+    },
+    {
+      "company": "Portland Leather Goods",
+      "website": "https://portlandleathergoods.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Maccoy Merkley"
+      ]
+    },
+    {
+      "company": "Curbee",
+      "website": "https://curbee.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Nicole Snyder Preston"
+      ]
+    },
+    {
+      "company": "Restoration 1 Headquarters",
+      "website": "https://restoration1.com",
+      "industry": "Other",
+      "leads": [
+        "Irene Jaskey"
+      ]
+    },
+    {
+      "company": "Everyday Health",
+      "website": "https://everydayhealth.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Fidel Frias",
+        "Meredith Lenoir",
+        "Alexandra Isabelle"
+      ]
+    },
+    {
+      "company": "Gymdesk",
+      "website": "https://gymdesk.com",
+      "industry": "Other",
+      "leads": [
+        "Brian Lastovich"
+      ]
+    },
+    {
+      "company": "Five Star Technology Solutions",
+      "website": "https://fivestartech.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Billy Bass",
+        "Quinn Kelch"
+      ]
+    },
+    {
+      "company": "GrowthBook",
+      "website": "https://growthbook.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ashley Stirrup"
+      ]
+    },
+    {
+      "company": "NerdWallet",
+      "website": "https://nerdwallet.com",
+      "industry": "Other",
+      "leads": [
+        "Beth Buczynski",
+        "Paul Soucy",
+        "Karen Gaudette Brewer",
+        "Alissa Reiter",
+        "Jeanette Margle",
+        "Drew Prescott",
+        "Chris Hutchison"
+      ]
+    },
+    {
+      "company": "Katie's Pizza",
+      "website": "https://katiespizzacafe.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Alicia Vega"
+      ]
+    },
+    {
+      "company": "MiaBella",
+      "website": "https://miabella.co",
+      "industry": "Other",
+      "leads": [
+        "Rachel Kubel"
+      ]
+    },
+    {
+      "company": "Sloomoo Institute",
+      "website": "https://sloomooinstitute.com",
+      "industry": "Other",
+      "leads": [
+        "Sandra C Gil"
+      ]
+    },
+    {
+      "company": "Big Human",
+      "website": "https://bighuman.com",
+      "industry": "Other",
+      "leads": [
+        "Kelley Louise"
+      ]
+    },
+    {
+      "company": "Tubi",
+      "website": "https://tubitv.com",
+      "industry": "Other",
+      "leads": [
+        "Sean Baranik",
+        "Adam Lewinson"
+      ]
+    },
+    {
+      "company": "Stumptown Coffee Roasters",
+      "website": "https://stumptowncoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Melanie Haliburton"
+      ]
+    },
+    {
+      "company": "The Chosen",
+      "website": "https://thechosen.tv",
+      "industry": "Other",
+      "leads": [
+        "Tasha Gaines",
+        "Cam Dearmond",
+        "Kyle J. Britt"
+      ]
+    },
+    {
+      "company": "GUNNER",
+      "website": "https://gunner.com",
+      "industry": "Other",
+      "leads": [
+        "Sloane Wimberly"
+      ]
+    },
+    {
+      "company": "Pancheros Mexican Grill",
+      "website": "https://pancheros.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Emma Reed"
+      ]
+    },
+    {
+      "company": "TuneIn",
+      "website": "https://tunein.com",
+      "industry": "Other",
+      "leads": [
+        "Alice Richard"
+      ]
+    },
+    {
+      "company": "UrbanStems",
+      "website": "https://urbanstems.com",
+      "industry": "Other",
+      "leads": [
+        "Caroline Harper"
+      ]
+    },
+    {
+      "company": "Brazi Bites",
+      "website": "https://brazibites.com",
+      "industry": "Other",
+      "leads": [
+        "Lauren Lortie"
+      ]
+    },
+    {
+      "company": "Planning Center",
+      "website": "https://planningcenter.com",
+      "industry": "Other",
+      "leads": [
+        "Chris Elliott"
+      ]
+    },
+    {
+      "company": "Get Air Management",
+      "website": "https://getairsports.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Ashton Goodell"
+      ]
+    },
+    {
+      "company": "Vidiots Foundation",
+      "website": "https://vidiotsfoundation.org",
+      "industry": "Other",
+      "leads": [
+        "Saila Reyes"
+      ]
+    },
+    {
+      "company": "Kale",
+      "website": "https://kalecard.com",
+      "industry": "Other",
+      "leads": [
+        "Raffi Margossian"
+      ]
+    },
+    {
+      "company": "Reink Media Group",
+      "website": "https://reinkmedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Molly Rossow"
+      ]
+    },
+    {
+      "company": "SXSW",
+      "website": "https://sxsw.com",
+      "industry": "Other",
+      "leads": [
+        "Jordan Roberts",
+        "Bryan Culver"
+      ]
+    },
+    {
+      "company": "proof. Pest Control",
+      "website": "https://proofpest.com",
+      "industry": "Other",
+      "leads": [
+        "Jenna Reeder",
+        "Brent Draper"
+      ]
+    },
+    {
+      "company": "Pool Scouts",
+      "website": "https://poolscoutsfranchise.com",
+      "industry": "Other",
+      "leads": [
+        "Lynlea Rudell"
+      ]
+    },
+    {
+      "company": "Leafwell",
+      "website": "https://leafwell.com",
+      "industry": "Other",
+      "leads": [
+        "Aur\u00e9lien Bouchet"
+      ]
+    },
+    {
+      "company": "Podium Entertainment",
+      "website": "https://podiumentertainment.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Nicole Antos",
+        "Shannon Frost"
+      ]
+    },
+    {
+      "company": "Fire Department Coffee",
+      "website": "https://firedeptcoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Randy James"
+      ]
+    },
+    {
+      "company": "AmTrav, a TravelPerk Company",
+      "website": "https://amtrav.com",
+      "industry": "Other",
+      "leads": [
+        "Elliott Mcnamee"
+      ]
+    },
+    {
+      "company": "TOGETHXR",
+      "website": "https://togethxr.com",
+      "industry": "Other",
+      "leads": [
+        "Kati Fernandez",
+        "Lauren Tolila",
+        "Jessica Robertson"
+      ]
+    },
+    {
+      "company": "911 Restoration - The Fresh Start Company",
+      "website": "https://911restoration.com",
+      "industry": "Other",
+      "leads": [
+        "David Wolff"
+      ]
+    },
+    {
+      "company": "Mercato",
+      "website": "https://mercato.com",
+      "industry": "Other",
+      "leads": [
+        "Justine Calabrese Bockman"
+      ]
+    },
+    {
+      "company": "British Swim School",
+      "website": "https://britishswimschool.com",
+      "industry": "Other",
+      "leads": [
+        "Julia Moody"
+      ]
+    },
+    {
+      "company": "Shef",
+      "website": "https://shef.com",
+      "industry": "Other",
+      "leads": [
+        "Anthony Mangia"
+      ]
+    },
+    {
+      "company": "DramaBox",
+      "website": "https://dianzhong.com",
+      "industry": "Other",
+      "leads": [
+        "Kelly Tang"
+      ]
+    },
+    {
+      "company": "Volley",
+      "website": "https://volleygames.com",
+      "industry": "Other",
+      "leads": [
+        "Shruti Swaminathan",
+        "Gerard Tully"
+      ]
+    },
+    {
+      "company": "StartEngine",
+      "website": "https://startengine.com",
+      "industry": "Other",
+      "leads": [
+        "Johanna Cronin"
+      ]
+    },
+    {
+      "company": "Mike's Hot Honey",
+      "website": "https://mikeshothoney.com",
+      "industry": "Other",
+      "leads": [
+        "Kate Guthrie Adams"
+      ]
+    },
+    {
+      "company": "Allegiance Flag Supply",
+      "website": "https://showallegiance.com",
+      "industry": "Other",
+      "leads": [
+        "Chris Johnson",
+        "Madeline Willis"
+      ]
+    },
+    {
+      "company": "FarOut",
+      "website": "https://faroutguides.com",
+      "industry": "Other",
+      "leads": [
+        "Natalie Dick"
+      ]
+    },
+    {
+      "company": "Lovart AI",
+      "website": "https://lovart.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Sylvia Liu",
+        "Garden Wah"
+      ]
+    },
+    {
+      "company": "Cloud Dentistry",
+      "website": "https://clouddentistry.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Brittany White"
+      ]
+    },
+    {
+      "company": "Zoe",
+      "website": "https://zoebaby.com",
+      "industry": "Other",
+      "leads": [
+        "Kelley Cochran",
+        "Krissy Pleiman",
+        "Holly Hill"
+      ]
+    },
+    {
+      "company": "Extendly For HighLevel",
+      "website": "https://getextendly.com",
+      "industry": "Other",
+      "leads": [
+        "Sharan Kaur"
+      ]
+    },
+    {
+      "company": "Sandboxx",
+      "website": "https://sandboxx.us",
+      "industry": "Other",
+      "leads": [
+        "Jeremiah Runser"
+      ]
+    },
+    {
+      "company": "Newlab",
+      "website": "https://newlab.com",
+      "industry": "Other",
+      "leads": [
+        "Rosa Barney"
+      ]
+    },
+    {
+      "company": "Ladders",
+      "website": "https://theladders.com",
+      "industry": "Other",
+      "leads": [
+        "Edward Angstadt"
+      ]
+    },
+    {
+      "company": "Atmosphere TV",
+      "website": "https://atmosphere.tv",
+      "industry": "Other",
+      "leads": [
+        "Brian Kost"
+      ]
+    },
+    {
+      "company": "So Good So You",
+      "website": "https://sogoodsoyou.com",
+      "industry": "Other",
+      "leads": [
+        "Kristi Fanning",
+        "Erin Winslow"
+      ]
+    },
+    {
+      "company": "Eternal",
+      "website": "https://eternal.co",
+      "industry": "Other",
+      "leads": [
+        "Charlotte Winthrop"
+      ]
+    },
+    {
+      "company": "The Escape Game",
+      "website": "https://theescapegame.com",
+      "industry": "Other",
+      "leads": [
+        "Daniel Daher",
+        "Teddy Cheek"
+      ]
+    },
+    {
+      "company": "Curiosity",
+      "website": "https://curiositystream.com",
+      "industry": "Other",
+      "leads": [
+        "Rob Burk"
+      ]
+    },
+    {
+      "company": "Volume.com",
+      "website": "https://volume.com",
+      "industry": "Other",
+      "leads": [
+        "Jon Romero"
+      ]
+    },
+    {
+      "company": "Alliance Hospitality Group",
+      "website": "https://alliancehg.com",
+      "industry": "Other",
+      "leads": [
+        "Amber Jamal Eckerlund"
+      ]
+    },
+    {
+      "company": "G.O.A.T. Foods",
+      "website": "https://goatfoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Katherine Obrien"
+      ]
+    },
+    {
+      "company": "Duck Club Entertainment",
+      "website": "https://theduckclub.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Megan Stoll"
+      ]
+    },
+    {
+      "company": "Biena Snacks",
+      "website": "https://bienasnacks.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Samantha Sieloff"
+      ]
+    },
+    {
+      "company": "FoodServiceDirect.com",
+      "website": "https://foodservicedirect.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Matt Wills"
+      ]
+    },
+    {
+      "company": "Divorce.com",
+      "website": "https://divorce.com",
+      "industry": "Other",
+      "leads": [
+        "Chris Baszto"
+      ]
+    },
+    {
+      "company": "Sports Illustrated Tickets",
+      "website": "https://sitickets.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Susie Bair Jones",
+        "Joe Flores"
+      ]
+    },
+    {
+      "company": "Tippmann Affiliated Group",
+      "website": "https://vptag.com",
+      "industry": "Other",
+      "leads": [
+        "Rob Henry"
+      ]
+    },
+    {
+      "company": "Frndly TV",
+      "website": "https://frndlytv.com",
+      "industry": "Other",
+      "leads": [
+        "Elizabeth El-Khatib",
+        "Chris Joel"
+      ]
+    },
+    {
+      "company": "CodeSignal",
+      "website": "https://codesignal.com",
+      "industry": "Other",
+      "leads": [
+        "Philip Bankey",
+        "Natalie Hanes"
+      ]
+    },
+    {
+      "company": "Tools for Humanity",
+      "website": "https://toolsforhumanity.com",
+      "industry": "Other",
+      "leads": [
+        "David Trumpf",
+        "John Patroulis"
+      ]
+    },
+    {
+      "company": "HopSkipDrive",
+      "website": "https://hopskipdrive.com",
+      "industry": "Other",
+      "leads": [
+        "Adam Gleicher",
+        "Lauren Rueger"
+      ]
+    },
+    {
+      "company": "Digital Authority Partners",
+      "website": "https://digitalauthority.me",
+      "industry": "Other",
+      "leads": [
+        "Lewis Goldman",
+        "Alan Gold"
+      ]
+    },
+    {
+      "company": "Cured by Innovaccer",
+      "website": "https://cured.health",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Brooke Vogelsmeier"
+      ]
+    },
+    {
+      "company": "Eve",
+      "website": "https://eve.legal",
+      "industry": "Other",
+      "leads": [
+        "Bri Tonns",
+        "David Malpass"
+      ]
+    },
+    {
+      "company": "ChiefAIOfficer.com",
+      "website": "https://chiefaiofficer.com",
+      "industry": "Other",
+      "leads": [
+        "Lee Pomerantz"
+      ]
+    },
+    {
+      "company": "Kontakt.io",
+      "website": "https://kontakt.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Andy P. Smith"
+      ]
+    },
+    {
+      "company": "Brit + Co",
+      "website": "https://brit.co",
+      "industry": "Other",
+      "leads": [
+        "Kamelle Cornell"
+      ]
+    },
+    {
+      "company": "Traba",
+      "website": "https://traba.work",
+      "industry": "Other",
+      "leads": [
+        "Michael Di Spirito"
+      ]
+    },
+    {
+      "company": "Ookla",
+      "website": "https://ookla.com",
+      "industry": "Other",
+      "leads": [
+        "Patrick Linder"
+      ]
+    },
+    {
+      "company": "Maverik Center",
+      "website": "https://maverikcenter.com",
+      "industry": "Other",
+      "leads": [
+        "Casey Mills"
+      ]
+    },
+    {
+      "company": "Growthspace",
+      "website": "https://growthspace.com",
+      "industry": "Other",
+      "leads": [
+        "Jami Oetting"
+      ]
+    },
+    {
+      "company": "Oxi Fresh",
+      "website": "https://oxifresh.com",
+      "industry": "Other",
+      "leads": [
+        "Erin Hogan"
+      ]
+    },
+    {
+      "company": "Canals",
+      "website": "https://canals.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Cindy Chow"
+      ]
+    },
+    {
+      "company": "US Global Mail",
+      "website": "https://usglobalmail.com",
+      "industry": "Other",
+      "leads": [
+        "Tashi Nibber"
+      ]
+    },
+    {
+      "company": "FK+",
+      "website": "https://fkplus.com",
+      "industry": "Other",
+      "leads": [
+        "Flavia Cassani"
+      ]
+    },
+    {
+      "company": "Brew Dr. Kombucha",
+      "website": "https://brewdrkombucha.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sydney Schuit"
+      ]
+    },
+    {
+      "company": "Boardwalk Pictures",
+      "website": "https://boardwalkpics.com",
+      "industry": "Other",
+      "leads": [
+        "Caitlin Mcginty",
+        "Spencer Gibson"
+      ]
+    },
+    {
+      "company": "Lightcast",
+      "website": "https://lightcast.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Curtis Fowle"
+      ]
+    },
+    {
+      "company": "Block Renovation",
+      "website": "https://blockrenovation.com",
+      "industry": "Other",
+      "leads": [
+        "Carolyn Hsu"
+      ]
+    },
+    {
+      "company": "Ten To One Rum",
+      "website": "https://tentoonerum.com",
+      "industry": "Other",
+      "leads": [
+        "Georgia Zeavin"
+      ]
+    },
+    {
+      "company": "gusto! fresh bowls & wraps",
+      "website": "https://whatsyourgusto.com",
+      "industry": "Other",
+      "leads": [
+        "Ryan Stein"
+      ]
+    },
+    {
+      "company": "Robotic Imaging",
+      "website": "https://roboticimaging.com",
+      "industry": "Other",
+      "leads": [
+        "Beatriz Murillo"
+      ]
+    },
+    {
+      "company": "DOGTV",
+      "website": "https://dogtv.com",
+      "industry": "Other",
+      "leads": [
+        "Ron Levi"
+      ]
+    },
+    {
+      "company": "Fohr",
+      "website": "https://fohr.co",
+      "industry": "Other",
+      "leads": [
+        "Nicole Giusti"
+      ]
+    },
+    {
+      "company": "11:11 Media",
+      "website": "https://parishilton.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Silvana Moretti",
+        "Rachel Webber"
+      ]
+    },
+    {
+      "company": "Bee Organized",
+      "website": "https://beeorganized.com",
+      "industry": "Other",
+      "leads": [
+        "Wendy Rose",
+        "Kristen Christian"
+      ]
+    },
+    {
+      "company": "Fulwell Entertainment",
+      "website": "https://fulwell73.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Jamal Henderson"
+      ]
+    },
+    {
+      "company": "PathSpot",
+      "website": "https://pathspot.com",
+      "industry": "Other",
+      "leads": [
+        "Jake Johnson"
+      ]
+    },
+    {
+      "company": "Nomad",
+      "website": "https://nomadmarketing.com",
+      "industry": "Other",
+      "leads": [
+        "Thomas Rosen"
+      ]
+    },
+    {
+      "company": "Craft Collective Homegrown Beverage Distributors",
+      "website": "https://cchgd.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kelsey Ohman"
+      ]
+    },
+    {
+      "company": "Forager Project",
+      "website": "https://foragerproject.com",
+      "industry": "Other",
+      "leads": [
+        "Lindsay Kaden"
+      ]
+    },
+    {
+      "company": "Hemper",
+      "website": "https://hemper.co",
+      "industry": "Other",
+      "leads": [
+        "Angel Ferrer"
+      ]
+    },
+    {
+      "company": "PodcastOne",
+      "website": "https://podcastone.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Eli Dvorkin"
+      ]
+    },
+    {
+      "company": "Privateer",
+      "website": "https://privateer.com",
+      "industry": "Other",
+      "leads": [
+        "Diana Klochkova"
+      ]
+    },
+    {
+      "company": "Cyrano Video",
+      "website": "https://cyranovideo.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Greg Rossino"
+      ]
+    },
+    {
+      "company": "FOODBEAST",
+      "website": "https://foodbeast.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Marc Kharrat"
+      ]
+    },
+    {
+      "company": "Evident",
+      "website": "https://evidentid.com",
+      "industry": "Other",
+      "leads": [
+        "John Rote"
+      ]
+    },
+    {
+      "company": "Nextdoor",
+      "website": "https://nextdoor.com",
+      "industry": "Other",
+      "leads": [
+        "Sarah Leary",
+        "Molly Mccarty"
+      ]
+    },
+    {
+      "company": "Meyer",
+      "website": "https://meyerus.com",
+      "industry": "Other",
+      "leads": [
+        "Daniella Reda",
+        "Tyler Leung",
+        "Colleen Johnson",
+        "Sara E. Curtis",
+        "Emily Hames"
+      ]
+    },
+    {
+      "company": "Wheel the World",
+      "website": "https://wheeltheworld.com",
+      "industry": "Other",
+      "leads": [
+        "Andres Villagran Merani"
+      ]
+    },
+    {
+      "company": "Cameron's Coffee",
+      "website": "https://cameronscoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Shannon Hansen",
+        "Ann Drapcho"
+      ]
+    },
+    {
+      "company": "Polarr",
+      "website": "https://polarr.co",
+      "industry": "Other",
+      "leads": [
+        "Jonathan Mark Jimenez",
+        "Aaron Najera"
+      ]
+    },
+    {
+      "company": "WizCommerce",
+      "website": "https://wizcommerce.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Cheryl Dobbins Hege",
+        "Shefali Chandolia"
+      ]
+    },
+    {
+      "company": "Patlytics",
+      "website": "https://patlytics.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Grant Richards"
+      ]
+    },
+    {
+      "company": "Teatro ZinZanni",
+      "website": "https://zinzanni.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Colleen Flanigan",
+        "Courtney Nichols"
+      ]
+    },
+    {
+      "company": "Wildfire Systems, Inc",
+      "website": "https://wildfire-corp.com",
+      "industry": "Other",
+      "leads": [
+        "Erica Forrette"
+      ]
+    },
+    {
+      "company": "NimbleWork",
+      "website": "https://nimblework.com",
+      "industry": "Other",
+      "leads": [
+        "Mahesh Singh"
+      ]
+    },
+    {
+      "company": "Lugg",
+      "website": "https://lugg.com",
+      "industry": "Other",
+      "leads": [
+        "Holly Benjamin"
+      ]
+    },
+    {
+      "company": "Rebrandly",
+      "website": "https://rebrandly.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Alison Charles",
+        "Stephanie Yoder",
+        "Lauren Durell"
+      ]
+    },
+    {
+      "company": "Vouched",
+      "website": "https://vouched.id",
+      "industry": "Other",
+      "leads": [
+        "Patrick Williams"
+      ]
+    },
+    {
+      "company": "Built In",
+      "website": "https://builtin.com",
+      "industry": "Other",
+      "leads": [
+        "Ryan Jacobs"
+      ]
+    },
+    {
+      "company": "Workera",
+      "website": "https://workera.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Chris Mayfield",
+        "Tim Darosa"
+      ]
+    },
+    {
+      "company": "Narragansett Brewing Company",
+      "website": "https://narragansettbeer.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Patrick Maguire"
+      ]
+    },
+    {
+      "company": "Thesis*",
+      "website": "https://thesis.co",
+      "industry": "Other",
+      "leads": [
+        "Joey Campbell"
+      ]
+    },
+    {
+      "company": "MyTime",
+      "website": "https://mytime.com",
+      "industry": "Other",
+      "leads": [
+        "Meghan Young"
+      ]
+    },
+    {
+      "company": "Trade Coffee",
+      "website": "https://drinktrade.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Jessica Crystal",
+        "Lauren Oreillynyc"
+      ]
+    },
+    {
+      "company": "Nitrogen",
+      "website": "https://nitrogenwealth.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Abby Pope"
+      ]
+    },
+    {
+      "company": "CyberNut",
+      "website": "https://cybernut.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Andrew Abbey"
+      ]
+    },
+    {
+      "company": "Ternary",
+      "website": "https://ternary.app",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Marie Burke"
+      ]
+    },
+    {
+      "company": "DNSFilter",
+      "website": "https://dnsfilter.com",
+      "industry": "Other",
+      "leads": [
+        "Nate Otiker",
+        "Chris Smith",
+        "Serena Raymond"
+      ]
+    },
+    {
+      "company": "RemoFirst",
+      "website": "https://remofirst.com",
+      "industry": "Other",
+      "leads": [
+        "Todd Kunsman",
+        "Angelica Krauss Jarmel"
+      ]
+    },
+    {
+      "company": "Dataminr",
+      "website": "https://dataminr.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Mike Nuzzo",
+        "Deb Wolf",
+        "Mariah Petrovic"
+      ]
+    },
+    {
+      "company": "cocokind",
+      "website": "https://cocokind.com",
+      "industry": "Other",
+      "leads": [
+        "Taylor Laska",
+        "Maria Maciejowski"
+      ]
+    },
+    {
+      "company": "AutoFi",
+      "website": "https://autofi.com",
+      "industry": "Other",
+      "leads": [
+        "Brendan Dougherty"
+      ]
+    },
+    {
+      "company": "Elicit Brewing Co",
+      "website": "https://elicitbrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Emily Sands"
+      ]
+    },
+    {
+      "company": "Tapcart",
+      "website": "https://tapcart.com",
+      "industry": "Other",
+      "leads": [
+        "Sam Abrahamson"
+      ]
+    },
+    {
+      "company": "Morrison Center for the Performing Arts",
+      "website": "https://morrisoncenter.com",
+      "industry": "Other",
+      "leads": [
+        "Alana Lynn"
+      ]
+    },
+    {
+      "company": "Rambler Sparkling Water",
+      "website": "https://ramblersparklingwater.com",
+      "industry": "Other",
+      "leads": [
+        "Dave Mead"
+      ]
+    },
+    {
+      "company": "Xendee",
+      "website": "https://xendee.com",
+      "industry": "Other",
+      "leads": [
+        "Trent Maw"
+      ]
+    },
+    {
+      "company": "Ditto",
+      "website": "https://ditto.live",
+      "industry": "Other",
+      "leads": [
+        "Shiri Friedman"
+      ]
+    },
+    {
+      "company": "Cheddar Up",
+      "website": "https://cheddarup.com",
+      "industry": "Other",
+      "leads": [
+        "Stephanie Burdick Falvey"
+      ]
+    },
+    {
+      "company": "Raddish",
+      "website": "https://raddishkids.com",
+      "industry": "Other",
+      "leads": [
+        "Seth Barnes"
+      ]
+    },
+    {
+      "company": "Plex",
+      "website": "https://plex.tv",
+      "industry": "Other",
+      "leads": [
+        "Josh Rosenblatt"
+      ]
+    },
+    {
+      "company": "Protein Bar & Kitchen",
+      "website": "https://theproteinbar.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Teddy Heidt"
+      ]
+    },
+    {
+      "company": "Heavy Metal",
+      "website": "https://heavymetal.com",
+      "industry": "Other",
+      "leads": [
+        "Chris Carmichael"
+      ]
+    },
+    {
+      "company": "Revry",
+      "website": "https://revry.tv",
+      "industry": "Other",
+      "leads": [
+        "Sydney Walz"
+      ]
+    },
+    {
+      "company": "NewForm",
+      "website": "https://newform.com",
+      "industry": "Other",
+      "leads": [
+        "Bryan Lyon",
+        "Rudy Boateng"
+      ]
+    },
+    {
+      "company": "Spiceology",
+      "website": "https://spiceology.com",
+      "industry": "Other",
+      "leads": [
+        "Eric Anderson",
+        "Lindsey Suda"
+      ]
+    },
+    {
+      "company": "Midtown Chimney Sweeps",
+      "website": "https://midtownsweeps.com",
+      "industry": "Other",
+      "leads": [
+        "Christina Smith"
+      ]
+    },
+    {
+      "company": "Onfleet",
+      "website": "https://onfleet.com",
+      "industry": "Other",
+      "leads": [
+        "Yusuf Ali Mahmoud"
+      ]
+    },
+    {
+      "company": "Apartment Therapy Media",
+      "website": "https://apartmenttherapy.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Angie Packard Prendergast",
+        "Laura Schocker"
+      ]
+    },
+    {
+      "company": "Hopeless Records",
+      "website": "https://hopelessrecords.com",
+      "industry": "Other",
+      "leads": [
+        "Jen Darmafall"
+      ]
+    },
+    {
+      "company": "ReflexAI",
+      "website": "https://reflexai.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Benji Gellman"
+      ]
+    },
+    {
+      "company": "FinOps Foundation",
+      "website": "https://finops.org",
+      "industry": "Other",
+      "leads": [
+        "Jessica Brandes"
+      ]
+    },
+    {
+      "company": "Empire Bakery Equipment",
+      "website": "https://empirebake.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Tim Levin"
+      ]
+    },
+    {
+      "company": "Toto",
+      "website": "https://totofoods.co",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sydney Webb"
+      ]
+    },
+    {
+      "company": "The A List",
+      "website": "https://thealist.us",
+      "industry": "Other",
+      "leads": [
+        "Eliana Roselli"
+      ]
+    },
+    {
+      "company": "Intelligentsia Coffee",
+      "website": "https://intelligentsiacoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Jonathan Gogel"
+      ]
+    },
+    {
+      "company": "Vacatia",
+      "website": "https://vacatia.com",
+      "industry": "Other",
+      "leads": [
+        "Ennovy Padron",
+        "Alfredo Abedrabbo"
+      ]
+    },
+    {
+      "company": "Two Hands America, Inc",
+      "website": "https://twohandsus.com",
+      "industry": "Other",
+      "leads": [
+        "Andrew Choo"
+      ]
+    },
+    {
+      "company": "BIG Media",
+      "website": "https://bigmedia.tv",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Max Montoya"
+      ]
+    },
+    {
+      "company": "On the Goga",
+      "website": "https://onthegoga.com",
+      "industry": "Other",
+      "leads": [
+        "Dani Elespinozagonzalez"
+      ]
+    },
+    {
+      "company": "Roya.com",
+      "website": "https://roya.com",
+      "industry": "Other",
+      "leads": [
+        "Bruce Azevedo"
+      ]
+    },
+    {
+      "company": "Amara",
+      "website": "https://amaraorganicfoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Shep Kowalski"
+      ]
+    },
+    {
+      "company": "hiyo",
+      "website": "https://drinkhiyo.com",
+      "industry": "Other",
+      "leads": [
+        "Cygne Cooper",
+        "Megan Abbott"
+      ]
+    },
+    {
+      "company": "Streamline AI",
+      "website": "https://streamline.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Matt Thompson"
+      ]
+    },
+    {
+      "company": "Arpio",
+      "website": "https://arpio.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Alex Schulte"
+      ]
+    },
+    {
+      "company": "SimpleClosure",
+      "website": "https://simpleclosure.com",
+      "industry": "Other",
+      "leads": [
+        "Daniel Seeff"
+      ]
+    },
+    {
+      "company": "Strongwater",
+      "website": "https://strongwater.com",
+      "industry": "Other",
+      "leads": [
+        "Ben Jaminmcollins"
+      ]
+    },
+    {
+      "company": "Koop",
+      "website": "https://koop.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Sam Colt"
+      ]
+    },
+    {
+      "company": "Hattie B's Hot Chicken",
+      "website": "https://hattieb.com",
+      "industry": "Other",
+      "leads": [
+        "Anthony Dudley",
+        "Anne Bracken Mcgraw"
+      ]
+    },
+    {
+      "company": "Callidus Legal AI",
+      "website": "https://callidusai.com",
+      "industry": "Other",
+      "leads": [
+        "Rod Hess"
+      ]
+    },
+    {
+      "company": "RedVan",
+      "website": "https://redvanworkshop.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Kristin Simmons",
+        "Tyler Leeth"
+      ]
+    },
+    {
+      "company": "Bitchin' Sauce",
+      "website": "https://bitchinsauce.com",
+      "industry": "Other",
+      "leads": [
+        "Jason Balcome",
+        "Miller Hawkins"
+      ]
+    },
+    {
+      "company": "Trustworthy",
+      "website": "https://trustworthy.com",
+      "industry": "Other",
+      "leads": [
+        "Taylor Hiskey"
+      ]
+    },
+    {
+      "company": "Surfside",
+      "website": "https://surfside.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Nicole Baytala"
+      ]
+    },
+    {
+      "company": "Pray.com",
+      "website": "https://pray.com",
+      "industry": "Other",
+      "leads": [
+        "Jason Rosoff"
+      ]
+    },
+    {
+      "company": "DigitalOwl",
+      "website": "https://digitalowl.com",
+      "industry": "Other",
+      "leads": [
+        "Alex Kane"
+      ]
+    },
+    {
+      "company": "Fort Point Beer Company",
+      "website": "https://fortpointbeer.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Dina Dobkin",
+        "Christina Shatzen"
+      ]
+    },
+    {
+      "company": "Mass Appeal",
+      "website": "https://massappeal.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Phoenix Maulella"
+      ]
+    },
+    {
+      "company": "Brave",
+      "website": "https://brave.com",
+      "industry": "Other",
+      "leads": [
+        "Ryan Mcfadden"
+      ]
+    },
+    {
+      "company": "Level99 Entertainment",
+      "website": "https://level99.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Rachel Scheinfeld"
+      ]
+    },
+    {
+      "company": "Kuali",
+      "website": "https://kuali.co",
+      "industry": "Other",
+      "leads": [
+        "Paul Smith"
+      ]
+    },
+    {
+      "company": "Lyric Theatre of Oklahoma",
+      "website": "https://lyrictheatreokc.org",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sam Durbin",
+        "Susan Webb"
+      ]
+    },
+    {
+      "company": "Cartel Roasting",
+      "website": "https://cartelroasting.co",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kristina Grappo"
+      ]
+    },
+    {
+      "company": "Kino Lorber",
+      "website": "https://kinolorber.com",
+      "industry": "Other",
+      "leads": [
+        "Monica Bloom"
+      ]
+    },
+    {
+      "company": "Sticky.io",
+      "website": "https://sticky.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Camala Winter"
+      ]
+    },
+    {
+      "company": "GlobalComix",
+      "website": "https://globalcomix.com",
+      "industry": "Other",
+      "leads": [
+        "Juuso Myllyrinne",
+        "William Graves"
+      ]
+    },
+    {
+      "company": "Apl\u00f3s",
+      "website": "https://aplos.world",
+      "industry": "Other",
+      "leads": [
+        "Emily Onkey"
+      ]
+    },
+    {
+      "company": "OnRamp",
+      "website": "https://onramp.us",
+      "industry": "Other",
+      "leads": [
+        "Tara Benyousky"
+      ]
+    },
+    {
+      "company": "Manifest",
+      "website": "https://manifestcyber.com",
+      "industry": "Other",
+      "leads": [
+        "Alexa Rzasa"
+      ]
+    },
+    {
+      "company": "MEDfarms Headquarters",
+      "website": "https://medfarms.com",
+      "industry": "Other",
+      "leads": [
+        "Towbey Kassa"
+      ]
+    },
+    {
+      "company": "Teikametrics",
+      "website": "https://teikametrics.com",
+      "industry": "Other",
+      "leads": [
+        "Melissa Romig",
+        "Cameron Yoder"
+      ]
+    },
+    {
+      "company": "EX.CO",
+      "website": "https://ex.co",
+      "industry": "Other",
+      "leads": [
+        "Shachar Orren"
+      ]
+    },
+    {
+      "company": "Lifemed",
+      "website": "https://lifemed.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Guigo Simoes"
+      ]
+    },
+    {
+      "company": "Signals",
+      "website": "https://getsignals.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jenny Young"
+      ]
+    },
+    {
+      "company": "Hashgraph",
+      "website": "https://hashgraph.com",
+      "industry": "Other",
+      "leads": [
+        "Lauren Cowan",
+        "Sara K. Hale"
+      ]
+    },
+    {
+      "company": "HOORAE",
+      "website": "https://hoorae.co",
+      "industry": "Other",
+      "leads": [
+        "Laurie Gardiner",
+        "Monique Francis"
+      ]
+    },
+    {
+      "company": "StackGen",
+      "website": "https://stackgen.com",
+      "industry": "Other",
+      "leads": [
+        "John Jamie"
+      ]
+    },
+    {
+      "company": "MOSH",
+      "website": "https://moshlife.com",
+      "industry": "Other",
+      "leads": [
+        "Chantalle Sephora Noormand"
+      ]
+    },
+    {
+      "company": "Cloudinary",
+      "website": "https://cloudinary.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kevin Lynch"
+      ]
+    },
+    {
+      "company": "Madison Reed",
+      "website": "https://madison-reed.com",
+      "industry": "Other",
+      "leads": [
+        "Lindsey Gemma",
+        "Erin Miller"
+      ]
+    },
+    {
+      "company": "Househappy",
+      "website": "https://househappy.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Matthew Domingo"
+      ]
+    },
+    {
+      "company": "Shelf",
+      "website": "https://shelf.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kevin Ford",
+        "Austin Freddy"
+      ]
+    },
+    {
+      "company": "Worksome",
+      "website": "https://worksome.com",
+      "industry": "Other",
+      "leads": [
+        "Brianna Kerr"
+      ]
+    },
+    {
+      "company": "Tote.ai",
+      "website": "https://tote.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Leo Castro"
+      ]
+    },
+    {
+      "company": "WriteSea",
+      "website": "https://writesea.com",
+      "industry": "Other",
+      "leads": [
+        "Leander Howard"
+      ]
+    },
+    {
+      "company": "Evertune AI",
+      "website": "https://evertune.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jaclyn Ranere"
+      ]
+    },
+    {
+      "company": "TEDAI San Francisco",
+      "website": "",
+      "industry": "Other",
+      "leads": [
+        "Bianca Beatty"
+      ]
+    },
+    {
+      "company": "Vendoo (YC W22)",
+      "website": "https://vendoo.co",
+      "industry": "Other",
+      "leads": [
+        "Josh Dzime-Assison"
+      ]
+    },
+    {
+      "company": "SKYLARK",
+      "website": "https://skylark.com",
+      "industry": "Other",
+      "leads": [
+        "Hannah Hamilton"
+      ]
+    },
+    {
+      "company": "M\u00ecL\u00e0",
+      "website": "https://eatmila.com",
+      "industry": "Other",
+      "leads": [
+        "Tracy Chow"
+      ]
+    },
+    {
+      "company": "Enthusiast Gaming",
+      "website": "https://enthusiastgaming.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Will Remik"
+      ]
+    },
+    {
+      "company": "HeadOffice.ai",
+      "website": "https://headoffice.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ivan Zorn"
+      ]
+    },
+    {
+      "company": "MRCOOL",
+      "website": "https://mrcool.com",
+      "industry": "Other",
+      "leads": [
+        "Bonnie Clymer"
+      ]
+    },
+    {
+      "company": "Minno",
+      "website": "https://gominno.com",
+      "industry": "Other",
+      "leads": [
+        "Jessica Harjo"
+      ]
+    },
+    {
+      "company": "SmartThings",
+      "website": "https://smartthings.com",
+      "industry": "Other",
+      "leads": [
+        "Kristina Iniguez"
+      ]
+    },
+    {
+      "company": "MOPO",
+      "website": "https://mopo.life",
+      "industry": "Other",
+      "leads": [
+        "Stephanie Edwards"
+      ]
+    },
+    {
+      "company": "Offline",
+      "website": "https://letsgetoffline.com",
+      "industry": "Other",
+      "leads": [
+        "Annalaura Cromwell"
+      ]
+    },
+    {
+      "company": "LeftField Media",
+      "website": "https://leftfieldmedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Lauren Dabb"
+      ]
+    },
+    {
+      "company": "Azion",
+      "website": "https://azion.com",
+      "industry": "Other",
+      "leads": [
+        "Gabriel Madureira"
+      ]
+    },
+    {
+      "company": "The Webby Awards",
+      "website": "https://webbyawards.com",
+      "industry": "Other",
+      "leads": [
+        "Jordana Jarrett"
+      ]
+    },
+    {
+      "company": "Nekter Juice Bar",
+      "website": "https://nekterjuicebar.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Corry Reid"
+      ]
+    },
+    {
+      "company": "Salted",
+      "website": "https://hellosalted.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Sam Evans",
+        "Aviv Gattenuo"
+      ]
+    },
+    {
+      "company": "Please & Thank You",
+      "website": "https://please.co",
+      "industry": "Other",
+      "leads": [
+        "Tim Putnam"
+      ]
+    },
+    {
+      "company": "Wandering Bear Coffee",
+      "website": "https://wanderingbear.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Shaungh Wolf"
+      ]
+    },
+    {
+      "company": "COhatch",
+      "website": "https://cohatch.com",
+      "industry": "Other",
+      "leads": [
+        "Elisabeth Limes",
+        "Joel Limes"
+      ]
+    },
+    {
+      "company": "MedTrainer",
+      "website": "https://medtrainer.com",
+      "industry": "Other",
+      "leads": [
+        "Melissa Whetzel",
+        "Vince Koehler"
+      ]
+    },
+    {
+      "company": "Rentvine",
+      "website": "https://rentvine.com",
+      "industry": "Other",
+      "leads": [
+        "Chris Brasher"
+      ]
+    },
+    {
+      "company": "The Shed (NY)",
+      "website": "https://theshed.org",
+      "industry": "Other",
+      "leads": [
+        "Jennifer Lam"
+      ]
+    },
+    {
+      "company": "Flashpoint",
+      "website": "https://flashpoint.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Joe Sawyer"
+      ]
+    },
+    {
+      "company": "iVisa",
+      "website": "https://ivisa.com",
+      "industry": "Other",
+      "leads": [
+        "Garret Stembridge",
+        "Dave Sampson"
+      ]
+    },
+    {
+      "company": "Hungryroot",
+      "website": "https://hungryroot.com",
+      "industry": "Other",
+      "leads": [
+        "Lauren Leggett"
+      ]
+    },
+    {
+      "company": "Halo Media",
+      "website": "https://halopowered.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Stefan Slattery"
+      ]
+    },
+    {
+      "company": "Blue Stripes",
+      "website": "https://bluestripes.com",
+      "industry": "Other",
+      "leads": [
+        "Eugene Lin"
+      ]
+    },
+    {
+      "company": "RIDD",
+      "website": "https://ridd.com",
+      "industry": "Other",
+      "leads": [
+        "Isaac Hunter"
+      ]
+    },
+    {
+      "company": "Leapfin",
+      "website": "https://leapfin.com",
+      "industry": "Other",
+      "leads": [
+        "Dave Bor"
+      ]
+    },
+    {
+      "company": "ShyftOff",
+      "website": "https://shyftoff.com",
+      "industry": "Other",
+      "leads": [
+        "Tyana Daley"
+      ]
+    },
+    {
+      "company": "MUBI",
+      "website": "https://mubi.com",
+      "industry": "Other",
+      "leads": [
+        "Jason Ropell",
+        "Lilly Riber",
+        "Michael Tacca"
+      ]
+    },
+    {
+      "company": "Vyond",
+      "website": "https://vyond.com",
+      "industry": "Other",
+      "leads": [
+        "Mark Rader"
+      ]
+    },
+    {
+      "company": "Treering",
+      "website": "https://treering.com",
+      "industry": "Other",
+      "leads": [
+        "Kristina Taylor Cruz"
+      ]
+    },
+    {
+      "company": "PeopleConnect",
+      "website": "https://peopleconnect.us",
+      "industry": "Other",
+      "leads": [
+        "Jon Ward"
+      ]
+    },
+    {
+      "company": "Show-Me Organics",
+      "website": "https://showmeorganics.com",
+      "industry": "Other",
+      "leads": [
+        "Tony Billmeyer",
+        "John Kreicbergs"
+      ]
+    },
+    {
+      "company": "Case Status\u00ae",
+      "website": "https://casestatus.com",
+      "industry": "Other",
+      "leads": [
+        "Paul Bamert",
+        "Kylie Moss Fahey"
+      ]
+    },
+    {
+      "company": "Littlebird",
+      "website": "https://littlebird.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Michael Sand"
+      ]
+    },
+    {
+      "company": "KINO",
+      "website": "https://kino.studio",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Brit Macrae"
+      ]
+    },
+    {
+      "company": "Mirror Digital",
+      "website": "https://mirrordigital.com",
+      "industry": "Other",
+      "leads": [
+        "Hani Khatib"
+      ]
+    },
+    {
+      "company": "Deep Indian Kitchen",
+      "website": "https://deepindiankitchen.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Anthony F.",
+        "Lindsey Gendron"
+      ]
+    },
+    {
+      "company": "Form.io",
+      "website": "https://form.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Laura Madden",
+        "Via Bialkowski"
+      ]
+    },
+    {
+      "company": "Axial",
+      "website": "https://axial.net",
+      "industry": "Other",
+      "leads": [
+        "Russell Miller"
+      ]
+    },
+    {
+      "company": "4Patriots",
+      "website": "https://4patriots.com",
+      "industry": "Other",
+      "leads": [
+        "Ashley Ailey",
+        "Kristina James",
+        "April Guyder"
+      ]
+    },
+    {
+      "company": "Wurl",
+      "website": "https://wurl.com",
+      "industry": "Other",
+      "leads": [
+        "Germaine Montagne"
+      ]
+    },
+    {
+      "company": "Palmstreet",
+      "website": "https://palmstreet.app",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Angalena Malavenda"
+      ]
+    },
+    {
+      "company": "NIVA - National Independent Venue Association",
+      "website": "https://nivassoc.org",
+      "industry": "Other",
+      "leads": [
+        "Lauren Kehrli"
+      ]
+    },
+    {
+      "company": "Edge Ai Foundation",
+      "website": "https://edgeaifoundation.org",
+      "industry": "Other",
+      "leads": [
+        "Lynda Greenberg"
+      ]
+    },
+    {
+      "company": "Golden Tiger",
+      "website": "https://goldentigerlife.com",
+      "industry": "Other",
+      "leads": [
+        "Janavi Dhawan"
+      ]
+    },
+    {
+      "company": "FCP Euro",
+      "website": "https://fcpeuro.com",
+      "industry": "Other",
+      "leads": [
+        "Brad Ragland",
+        "Kyle Bento"
+      ]
+    },
+    {
+      "company": "Good Dog",
+      "website": "https://gooddog.com",
+      "industry": "Other",
+      "leads": [
+        "Adrienne Liu"
+      ]
+    },
+    {
+      "company": "Gadabout SalonSpas",
+      "website": "https://gadabout.com",
+      "industry": "Other",
+      "leads": [
+        "Megan Jasper"
+      ]
+    },
+    {
+      "company": "Wave.video. Video Editing & Live Streaming",
+      "website": "https://wave.video",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Kate Skavish"
+      ]
+    },
+    {
+      "company": "Betches Media",
+      "website": "https://betches.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Dolapo Sangokoya",
+        "Kate Ward"
+      ]
+    },
+    {
+      "company": "The Comedy Store",
+      "website": "https://thecomedystore.com",
+      "industry": "Other",
+      "leads": [
+        "Brian Baldinger"
+      ]
+    },
+    {
+      "company": "Integral Privacy Technologies",
+      "website": "https://useintegral.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kelsey Thomas"
+      ]
+    },
+    {
+      "company": "mit\u00fa",
+      "website": "https://wearemitu.com",
+      "industry": "Other",
+      "leads": [
+        "Vanessa Vigil"
+      ]
+    },
+    {
+      "company": "Diffbot",
+      "website": "https://diffbot.com",
+      "industry": "Other",
+      "leads": [
+        "Jerome Choo"
+      ]
+    },
+    {
+      "company": "Pika",
+      "website": "https://pika.art",
+      "industry": "Other",
+      "leads": [
+        "Lindsay Brillson"
+      ]
+    },
+    {
+      "company": "Sizzle",
+      "website": "https://sizzle.gg",
+      "industry": "Other",
+      "leads": [
+        "Alex Chaparro"
+      ]
+    },
+    {
+      "company": "Levoy Theatre",
+      "website": "https://levoy.net",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Jessica Lotito"
+      ]
+    },
+    {
+      "company": "Trustwise",
+      "website": "https://trustwise.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Nancy Pearson"
+      ]
+    },
+    {
+      "company": "Baked by Melissa",
+      "website": "https://bakedbymelissa.com",
+      "industry": "Other",
+      "leads": [
+        "Chrissy Capalbo",
+        "Samantha Hahn"
+      ]
+    },
+    {
+      "company": "LegitScript",
+      "website": "https://legitscript.com",
+      "industry": "Other",
+      "leads": [
+        "Karen Gragg"
+      ]
+    },
+    {
+      "company": "88 Acres",
+      "website": "https://88acres.com",
+      "industry": "Other",
+      "leads": [
+        "Lynn Stachnick"
+      ]
+    },
+    {
+      "company": "Van Leeuwen Ice Cream",
+      "website": "https://vanleeuwenicecream.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Cady Roberts"
+      ]
+    },
+    {
+      "company": "Besa mi vino",
+      "website": "https://drinkbesa.com",
+      "industry": "Other",
+      "leads": [
+        "Amelia Cohen Smith"
+      ]
+    },
+    {
+      "company": "Kadena",
+      "website": "https://kadena.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Mike Herron"
+      ]
+    },
+    {
+      "company": "heatmap",
+      "website": "https://heatmap.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Carina Munro"
+      ]
+    },
+    {
+      "company": "The Stonegate Firm",
+      "website": "https://stonegatefirm.com",
+      "industry": "Other",
+      "leads": [
+        "David Buckley"
+      ]
+    },
+    {
+      "company": "Dry Farm Wines",
+      "website": "https://dryfarmwines.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Lindsay Romm",
+        "Crystal Cun"
+      ]
+    },
+    {
+      "company": "It's Just Lunch | IJL Select | EPS",
+      "website": "https://itsjustlunchchicago.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sarah Patt"
+      ]
+    },
+    {
+      "company": "Tailwind Nutrition",
+      "website": "https://tailwindnutrition.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kristen Flemington"
+      ]
+    },
+    {
+      "company": "Retell AI",
+      "website": "https://retellai.com",
+      "industry": "Other",
+      "leads": [
+        "Evie Wang"
+      ]
+    },
+    {
+      "company": "Xano",
+      "website": "https://xano.com",
+      "industry": "Other",
+      "leads": [
+        "Troy Pacheco",
+        "Kelly Grace",
+        "Andrew Haire"
+      ]
+    },
+    {
+      "company": "Serenity Kids",
+      "website": "https://myserenitykids.com",
+      "industry": "Other",
+      "leads": [
+        "Patrick Yatskis"
+      ]
+    },
+    {
+      "company": "Sesame",
+      "website": "https://sesamecare.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Kristen Healy"
+      ]
+    },
+    {
+      "company": "Narratively",
+      "website": "https://narratively.com",
+      "industry": "Other",
+      "leads": [
+        "Noah Rosenberg"
+      ]
+    },
+    {
+      "company": "Causes.com",
+      "website": "https://causes.com",
+      "industry": "Other",
+      "leads": [
+        "Elliot Kolt"
+      ]
+    },
+    {
+      "company": "Tavolo",
+      "website": "https://tavolo.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Abdi Hassan"
+      ]
+    },
+    {
+      "company": "One Country",
+      "website": "https://onecountry.com",
+      "industry": "Other",
+      "leads": [
+        "Neil Miller",
+        "Sarah Tidwell",
+        "Chase Locke"
+      ]
+    },
+    {
+      "company": "Four Sigmatic",
+      "website": "https://foursigmatic.com",
+      "industry": "Other",
+      "leads": [
+        "Sarah Hamilton",
+        "Jill Mwils"
+      ]
+    },
+    {
+      "company": "Duckbill",
+      "website": "https://getduckbill.com",
+      "industry": "Other",
+      "leads": [
+        "Elysia Mann"
+      ]
+    },
+    {
+      "company": "Starland Sportsplex & Fun Park",
+      "website": "https://starlandsports.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Heidi Prisco"
+      ]
+    },
+    {
+      "company": "Accushield",
+      "website": "https://accushield.com",
+      "industry": "Other",
+      "leads": [
+        "Sam Mcdade",
+        "John Leavitt"
+      ]
+    },
+    {
+      "company": "Glide Xpress Car Wash",
+      "website": "https://glidexwash.com",
+      "industry": "Other",
+      "leads": [
+        "Christopher Barrett-Ayvazi"
+      ]
+    },
+    {
+      "company": "Injective",
+      "website": "https://injective.com",
+      "industry": "Other",
+      "leads": [
+        "Julie Lee"
+      ]
+    },
+    {
+      "company": "uConnect",
+      "website": "https://gouconnect.com",
+      "industry": "Other",
+      "leads": [
+        "Meredith Metsker",
+        "Ashley Safranski"
+      ]
+    },
+    {
+      "company": "Wild Earth",
+      "website": "https://wildearth.com",
+      "industry": "Other",
+      "leads": [
+        "Nikita Michelsen"
+      ]
+    },
+    {
+      "company": "CURE",
+      "website": "https://curehydration.com",
+      "industry": "Other",
+      "leads": [
+        "Hannah Bender",
+        "Laura Haas Kendrick"
+      ]
+    },
+    {
+      "company": "Elauwit Connection",
+      "website": "https://elauwit.com",
+      "industry": "Other",
+      "leads": [
+        "Katie Hayward"
+      ]
+    },
+    {
+      "company": "Graza",
+      "website": "https://graza.co",
+      "industry": "Other",
+      "leads": [
+        "Alex Edelstein",
+        "Kali Shulklapper"
+      ]
+    },
+    {
+      "company": "LNE Presents",
+      "website": "https://lnepresents.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Faith Tusieseina"
+      ]
+    },
+    {
+      "company": "Omaha Productions",
+      "website": "https://omahaproductions.com",
+      "industry": "Other",
+      "leads": [
+        "Kristen Herlihy"
+      ]
+    },
+    {
+      "company": "Wonder Project",
+      "website": "https://thewonderproject.com",
+      "industry": "Other",
+      "leads": [
+        "Richard Schultz",
+        "Kendall Carson",
+        "Tom Mcalister",
+        "Rose Fodulyan Meyer"
+      ]
+    },
+    {
+      "company": "Xiid Corp",
+      "website": "https://xiid.com",
+      "industry": "Other",
+      "leads": [
+        "Christine Clippinger"
+      ]
+    },
+    {
+      "company": "CAO Bakery & Cafe",
+      "website": "https://caobakerycafe.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Yvette Rodriguez Cao"
+      ]
+    },
+    {
+      "company": "DoiT",
+      "website": "https://doit.com",
+      "industry": "Other",
+      "leads": [
+        "Brendan Cooper",
+        "Tracie Stamm"
+      ]
+    },
+    {
+      "company": "Maximum Effort",
+      "website": "https://maximumeffort.com",
+      "industry": "Other",
+      "leads": [
+        "Pierce Thiot"
+      ]
+    },
+    {
+      "company": "Sonoro Global Media",
+      "website": "https://sonoromedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Camila Victoriano"
+      ]
+    },
+    {
+      "company": "Rx Redefined",
+      "website": "https://rxredefined.com",
+      "industry": "Other",
+      "leads": [
+        "Nick Hartland"
+      ]
+    },
+    {
+      "company": "Daisy",
+      "website": "https://joindaisy.com",
+      "industry": "Other",
+      "leads": [
+        "Leah Hammerschlag"
+      ]
+    },
+    {
+      "company": "Ale-8-One Bottling Company",
+      "website": "https://ale-8-one.com",
+      "industry": "Other",
+      "leads": [
+        "Kevin Price"
+      ]
+    },
+    {
+      "company": "Fulton Brewing Company",
+      "website": "https://fultonbeer.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Holly Manthei"
+      ]
+    },
+    {
+      "company": "MoonBrew",
+      "website": "https://moonbrew.co",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Seth Petersen",
+        "Alicia Beggs",
+        "Posy Stoller"
+      ]
+    },
+    {
+      "company": "CloudWave",
+      "website": "https://cloudwaveinc.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Julie Anne Wells"
+      ]
+    },
+    {
+      "company": "Ultimate Sales",
+      "website": "https://thebestcstorebroker.com",
+      "industry": "Other",
+      "leads": [
+        "Jacquelyn Sisson"
+      ]
+    },
+    {
+      "company": "Swoon",
+      "website": "https://tasteswoon.com",
+      "industry": "Other",
+      "leads": [
+        "Lisa Parady"
+      ]
+    },
+    {
+      "company": "SharpLink (SBET)",
+      "website": "https://sharplink.com",
+      "industry": "Other",
+      "leads": [
+        "Mandy Campbell"
+      ]
+    },
+    {
+      "company": "Kanga Coolers",
+      "website": "https://kangacoolers.com",
+      "industry": "Other",
+      "leads": [
+        "Greg Jones"
+      ]
+    },
+    {
+      "company": "Baby's All Right",
+      "website": "https://babysallright.com",
+      "industry": "Other",
+      "leads": [
+        "Caroline Safran"
+      ]
+    },
+    {
+      "company": "ServiceMaster DSI",
+      "website": "https://servicemasterdsi.com",
+      "industry": "Other",
+      "leads": [
+        "Denae Estus"
+      ]
+    },
+    {
+      "company": "Privado.ai",
+      "website": "https://privado.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Hernando Buitrago"
+      ]
+    },
+    {
+      "company": "Matador Network",
+      "website": "https://matadornetwork.com",
+      "industry": "Other",
+      "leads": [
+        "Evan Bonham",
+        "Cj Close"
+      ]
+    },
+    {
+      "company": "Clerri",
+      "website": "https://clerri.com",
+      "industry": "Other",
+      "leads": [
+        "Rob Yoegel"
+      ]
+    },
+    {
+      "company": "Tovala",
+      "website": "https://tovala.com",
+      "industry": "Other",
+      "leads": [
+        "Brett Swensen"
+      ]
+    },
+    {
+      "company": "Haystack News",
+      "website": "https://haystack.tv",
+      "industry": "Other",
+      "leads": [
+        "Jennifer Stamm"
+      ]
+    },
+    {
+      "company": "Juice Generation",
+      "website": "https://juicegeneration.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Simone Shepard"
+      ]
+    },
+    {
+      "company": "Crafty Apes",
+      "website": "https://craftyapes.com",
+      "industry": "Other",
+      "leads": [
+        "Matt Akey"
+      ]
+    },
+    {
+      "company": "Azzip Pizza",
+      "website": "https://azzippizza.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Zack Mathis"
+      ]
+    },
+    {
+      "company": "dataplor",
+      "website": "https://dataplor.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kate Wood"
+      ]
+    },
+    {
+      "company": "Sea Love",
+      "website": "https://sealove.com",
+      "industry": "Other",
+      "leads": [
+        "Lorraine Devaux"
+      ]
+    },
+    {
+      "company": "Embracing Abilities",
+      "website": "https://embracingabilities.com",
+      "industry": "Other",
+      "leads": [
+        "Emma Clark"
+      ]
+    },
+    {
+      "company": "Card My Yard",
+      "website": "https://cardmyyard.com",
+      "industry": "Other",
+      "leads": [
+        "Jessica Stanley"
+      ]
+    },
+    {
+      "company": "OneVision Resources",
+      "website": "https://onevisionresources.com",
+      "industry": "Other",
+      "leads": [
+        "Audrey Launius"
+      ]
+    },
+    {
+      "company": "CacheFly",
+      "website": "https://cachefly.com",
+      "industry": "Other",
+      "leads": [
+        "Tara Bartley"
+      ]
+    },
+    {
+      "company": "Bread Alone Bakery",
+      "website": "https://breadalone.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Jaclyn Cardin"
+      ]
+    },
+    {
+      "company": "The Regis Company",
+      "website": "https://regiscompany.com",
+      "industry": "Other",
+      "leads": [
+        "Holly Hamann"
+      ]
+    },
+    {
+      "company": "SYP",
+      "website": "https://getsyp.com",
+      "industry": "Other",
+      "leads": [
+        "Lance Mald"
+      ]
+    },
+    {
+      "company": "TheLoops",
+      "website": "https://theloops.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jaclyn Mullen"
+      ]
+    },
+    {
+      "company": "Skedda",
+      "website": "https://skedda.com",
+      "industry": "Other",
+      "leads": [
+        "Rustin Nethercott"
+      ]
+    },
+    {
+      "company": "Keychain",
+      "website": "https://keychain.com",
+      "industry": "Other",
+      "leads": [
+        "Lacey Chaum"
+      ]
+    },
+    {
+      "company": "GoodPop",
+      "website": "https://goodpops.com",
+      "industry": "Other",
+      "leads": [
+        "Clara Tomlin",
+        "Jessica Mason"
+      ]
+    },
+    {
+      "company": "Bareburger",
+      "website": "https://bareburger.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Zach Mccurdy"
+      ]
+    },
+    {
+      "company": "MINT Talent Group",
+      "website": "https://minttalentgroup.com",
+      "industry": "Other",
+      "leads": [
+        "Isabel Brougham"
+      ]
+    },
+    {
+      "company": "Open Invention Network",
+      "website": "https://openinventionnetwork.com",
+      "industry": "Other",
+      "leads": [
+        "Christina Motley"
+      ]
+    },
+    {
+      "company": "Toma",
+      "website": "https://toma.com",
+      "industry": "Other",
+      "leads": [
+        "Chris J Vazquez"
+      ]
+    },
+    {
+      "company": "Magic Mind",
+      "website": "https://magicmind.com",
+      "industry": "Other",
+      "leads": [
+        "Rob Webb"
+      ]
+    },
+    {
+      "company": "MEandMine",
+      "website": "https://meandmine.com",
+      "industry": "Other",
+      "leads": [
+        "Walter Da Luz"
+      ]
+    },
+    {
+      "company": "Fly By Jing",
+      "website": "https://flybyjing.com",
+      "industry": "Other",
+      "leads": [
+        "Cindy Hofbauer"
+      ]
+    },
+    {
+      "company": "Beautytap",
+      "website": "https://beautytap.com",
+      "industry": "Other",
+      "leads": [
+        "Alexis Hoerres"
+      ]
+    },
+    {
+      "company": "Dose",
+      "website": "https://dosedaily.co",
+      "industry": "Other",
+      "leads": [
+        "Madeline Edwards"
+      ]
+    },
+    {
+      "company": "OpenBorder",
+      "website": "https://openborder.com",
+      "industry": "Other",
+      "leads": [
+        "Jake Chatt"
+      ]
+    },
+    {
+      "company": "2 Towns Ciderhouse",
+      "website": "https://2townsciderhouse.com",
+      "industry": "Other",
+      "leads": [
+        "Scott Bugni"
+      ]
+    },
+    {
+      "company": "Crazy Maple Studio",
+      "website": "https://crazymaplestudio.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Mibao Sophie Xiong",
+        "Abby Dzeng"
+      ]
+    },
+    {
+      "company": "Maze",
+      "website": "https://themazegroup.com",
+      "industry": "Other",
+      "leads": [
+        "Chip Moloney"
+      ]
+    },
+    {
+      "company": "Silent House",
+      "website": "https://silent-house.com",
+      "industry": "Other",
+      "leads": [
+        "Linda Gierahn"
+      ]
+    },
+    {
+      "company": "ZeroBounce",
+      "website": "https://zerobounce.net",
+      "industry": "Other",
+      "leads": [
+        "Anne Ghaltchi"
+      ]
+    },
+    {
+      "company": "Imagine",
+      "website": "https://theimagineteam.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Leah Koch"
+      ]
+    },
+    {
+      "company": "Arkestro",
+      "website": "https://arkestro.com",
+      "industry": "Other",
+      "leads": [
+        "Mary Beth Wilson"
+      ]
+    },
+    {
+      "company": "Prime Corporate Services",
+      "website": "https://primecorporateservices.com",
+      "industry": "Other",
+      "leads": [
+        "Jesse Himsworth"
+      ]
+    },
+    {
+      "company": "Seated",
+      "website": "https://seatedapp.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Scott Fielding"
+      ]
+    },
+    {
+      "company": "FANGORIA",
+      "website": "https://fangoria.com",
+      "industry": "Other",
+      "leads": [
+        "Sabrina Sieck"
+      ]
+    },
+    {
+      "company": "SpotGenius",
+      "website": "https://spotgenius.com",
+      "industry": "Other",
+      "leads": [
+        "Rachel Wheeler"
+      ]
+    },
+    {
+      "company": "GovSpend",
+      "website": "https://govspend.com",
+      "industry": "Other",
+      "leads": [
+        "Anne Halstead"
+      ]
+    },
+    {
+      "company": "Spokeo",
+      "website": "https://spokeo.com",
+      "industry": "Other",
+      "leads": [
+        "Victor Yeh"
+      ]
+    },
+    {
+      "company": "Actual Veggies",
+      "website": "https://actualveggies.com",
+      "industry": "Other",
+      "leads": [
+        "Cassi Rosenbaum"
+      ]
+    },
+    {
+      "company": "LIME Fresh Mexican Grill",
+      "website": "https://limefreshmexicangrill.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Ethan Albrecht-Carri\u00e9",
+        "Morgan Beene"
+      ]
+    },
+    {
+      "company": "Etix",
+      "website": "https://etix.com",
+      "industry": "Other",
+      "leads": [
+        "Courtney Barwick",
+        "Aaron Bare"
+      ]
+    },
+    {
+      "company": "3Natives Acai Cafe",
+      "website": "https://3natives.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Frances Luong",
+        "Annabelle Worth"
+      ]
+    },
+    {
+      "company": "Adapex",
+      "website": "https://adapex.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Joanie B."
+      ]
+    },
+    {
+      "company": "myCOI",
+      "website": "https://illumend.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Faith Prescott"
+      ]
+    },
+    {
+      "company": "Ticket\u00f3n",
+      "website": "https://ticketon.com",
+      "industry": "Other",
+      "leads": [
+        "Laura Bolivar"
+      ]
+    },
+    {
+      "company": "Rise Science",
+      "website": "https://risescience.com",
+      "industry": "Other",
+      "leads": [
+        "Lola Feiger"
+      ]
+    },
+    {
+      "company": "Middesk",
+      "website": "https://middesk.com",
+      "industry": "Other",
+      "leads": [
+        "Jackie Wylie",
+        "Emily Kucharczyk"
+      ]
+    },
+    {
+      "company": "Gregorys Coffee",
+      "website": "https://gregoryscoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Ren\u00e9 Puerta"
+      ]
+    },
+    {
+      "company": "Arux",
+      "website": "https://aruxsoftware.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Thomas Sawatzke"
+      ]
+    },
+    {
+      "company": "WorkWhile",
+      "website": "https://workwhile.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Eva Wei"
+      ]
+    },
+    {
+      "company": "ExperiGreen Lawn Care",
+      "website": "https://experigreen.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Adam Scott Riff",
+        "Scott Jablonski"
+      ]
+    },
+    {
+      "company": "Heavy Seas Beer",
+      "website": "https://heavyseasbeer.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Caroline Sisson",
+        "Jackie Watson"
+      ]
+    },
+    {
+      "company": "Zirous",
+      "website": "https://zirous.com",
+      "industry": "Other",
+      "leads": [
+        "Lindsey Besson"
+      ]
+    },
+    {
+      "company": "The Skinny Pancake",
+      "website": "https://skinnypancake.com",
+      "industry": "Other",
+      "leads": [
+        "Courtney O'Rourke"
+      ]
+    },
+    {
+      "company": "Voyantis",
+      "website": "https://voyantis.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Daphne Earp Hoppenot"
+      ]
+    },
+    {
+      "company": "The Spice House",
+      "website": "https://thespicehouse.com",
+      "industry": "Other",
+      "leads": [
+        "Melinda Kennedy"
+      ]
+    },
+    {
+      "company": "Brand Knew",
+      "website": "https://brand-knew.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Barrett Bodine"
+      ]
+    },
+    {
+      "company": "Landbase",
+      "website": "https://landbase.com",
+      "industry": "Other",
+      "leads": [
+        "Janine Wald"
+      ]
+    },
+    {
+      "company": "Predactiv",
+      "website": "https://predactiv.com",
+      "industry": "Other",
+      "leads": [
+        "Stanley Lin"
+      ]
+    },
+    {
+      "company": "Niche",
+      "website": "https://niche.com",
+      "industry": "Other",
+      "leads": [
+        "Kristina Gannotta",
+        "Meghan Tracy",
+        "Peter Edwards"
+      ]
+    },
+    {
+      "company": "Charitybuzz",
+      "website": "https://charitybuzz.com",
+      "industry": "Other",
+      "leads": [
+        "Angela Gruszka"
+      ]
+    },
+    {
+      "company": "Help Scout",
+      "website": "https://helpscout.com",
+      "industry": "Other",
+      "leads": [
+        "Hillary Noble"
+      ]
+    },
+    {
+      "company": "Stem Disintermedia",
+      "website": "https://stem.is",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Lexi Roney"
+      ]
+    },
+    {
+      "company": "Centercode",
+      "website": "https://centercode.com",
+      "industry": "Other",
+      "leads": [
+        "Chris Rader"
+      ]
+    },
+    {
+      "company": "Sola Salons",
+      "website": "https://solasalons.com",
+      "industry": "Other",
+      "leads": [
+        "Brittanie Gioioso",
+        "Ethan Kisan",
+        "Christine Reiter",
+        "Kristen Kokolus"
+      ]
+    },
+    {
+      "company": "CB Insights",
+      "website": "https://cbinsights.com",
+      "industry": "Other",
+      "leads": [
+        "Jon Borgese"
+      ]
+    },
+    {
+      "company": "Living Scriptures",
+      "website": "https://livingscriptures.com",
+      "industry": "Other",
+      "leads": [
+        "Jaren Parker"
+      ]
+    },
+    {
+      "company": "Togal.AI",
+      "website": "https://togal.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kelsey Formost"
+      ]
+    },
+    {
+      "company": "Dragonboat",
+      "website": "https://dragonboat.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Shaun Juncal"
+      ]
+    },
+    {
+      "company": "Gopher",
+      "website": "https://gopher-ai.com",
+      "industry": "Other",
+      "leads": [
+        "Amateo Ra"
+      ]
+    },
+    {
+      "company": "Dwolla",
+      "website": "https://dwolla.com",
+      "industry": "Other",
+      "leads": [
+        "Neely Conway"
+      ]
+    },
+    {
+      "company": "Banza",
+      "website": "https://eatbanza.com",
+      "industry": "Other",
+      "leads": [
+        "Nicole Landesman"
+      ]
+    },
+    {
+      "company": "Writing.io",
+      "website": "https://writing.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ryan Fleming"
+      ]
+    },
+    {
+      "company": "Marvin",
+      "website": "https://heymarvin.com",
+      "industry": "Other",
+      "leads": [
+        "Annette Cardwell"
+      ]
+    },
+    {
+      "company": "CubeWorks",
+      "website": "https://cubeworks.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Rachel Phillips"
+      ]
+    },
+    {
+      "company": "Apicii Hospitality",
+      "website": "https://apicii.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Shawna Dawson"
+      ]
+    },
+    {
+      "company": "Best Day Brewing",
+      "website": "https://bestdaybrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Jim Gunning"
+      ]
+    },
+    {
+      "company": "Fellow",
+      "website": "https://fellowproducts.com",
+      "industry": "Other",
+      "leads": [
+        "Kai Hansen"
+      ]
+    },
+    {
+      "company": "Bamboo Rose",
+      "website": "https://bamboorose.com",
+      "industry": "Other",
+      "leads": [
+        "Melissa Dipietro"
+      ]
+    },
+    {
+      "company": "Owl Autonomous Imaging",
+      "website": "https://owlai.us",
+      "industry": "Other",
+      "leads": [
+        "Wade Appelman"
+      ]
+    },
+    {
+      "company": "BrandYourself",
+      "website": "https://brandyourself.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Andy Londen"
+      ]
+    },
+    {
+      "company": "Supered\u26a1",
+      "website": "https://supered.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ashley Freter"
+      ]
+    },
+    {
+      "company": "Scalekit",
+      "website": "https://scalekit.com",
+      "industry": "Other",
+      "leads": [
+        "Shri Mithran"
+      ]
+    },
+    {
+      "company": "Pietra",
+      "website": "https://pietrastudio.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Pete Gilligan"
+      ]
+    },
+    {
+      "company": "Optery",
+      "website": "https://optery.com",
+      "industry": "Other",
+      "leads": [
+        "Sara Trammell"
+      ]
+    },
+    {
+      "company": "hello82",
+      "website": "https://hello82.com",
+      "industry": "Other",
+      "leads": [
+        "Kelly Minkyung Shin"
+      ]
+    },
+    {
+      "company": "Provi",
+      "website": "https://provi.com",
+      "industry": "Other",
+      "leads": [
+        "Katarina Hogan",
+        "Ryan Philemon"
+      ]
+    },
+    {
+      "company": "Lasso MD",
+      "website": "https://lassomd.com",
+      "industry": "Other",
+      "leads": [
+        "Greg Sexton"
+      ]
+    },
+    {
+      "company": "The Cumin Club",
+      "website": "https://thecuminclub.com",
+      "industry": "Other",
+      "leads": [
+        "Farah Jesani"
+      ]
+    },
+    {
+      "company": "Round Room Live",
+      "website": "https://roundroomlive.com",
+      "industry": "Other",
+      "leads": [
+        "Julie Wechsler Scott"
+      ]
+    },
+    {
+      "company": "Alpen Labs",
+      "website": "https://alpenlabs.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Andrew Michael Todd"
+      ]
+    },
+    {
+      "company": "Yuma AI (YC W23)",
+      "website": "https://yuma.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jerem Febvre"
+      ]
+    },
+    {
+      "company": "Endless West",
+      "website": "https://endlesswest.com",
+      "industry": "Other",
+      "leads": [
+        "Carrie Meslar",
+        "Kate Johnston"
+      ]
+    },
+    {
+      "company": "DeepDyve",
+      "website": "https://deepdyve.com",
+      "industry": "Other",
+      "leads": [
+        "Beth Morgan"
+      ]
+    },
+    {
+      "company": "Chess.com",
+      "website": "https://chess.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Mike Klein"
+      ]
+    },
+    {
+      "company": "RepCard",
+      "website": "https://repcard.com",
+      "industry": "Other",
+      "leads": [
+        "James Birdsall"
+      ]
+    },
+    {
+      "company": "WeLink",
+      "website": "https://welink.com",
+      "industry": "Other",
+      "leads": [
+        "Whitney Fenzel"
+      ]
+    },
+    {
+      "company": "G.O.A.T. Fuel",
+      "website": "https://goatfuel.com",
+      "industry": "Other",
+      "leads": [
+        "Jamie Bruckner"
+      ]
+    },
+    {
+      "company": "Kodex",
+      "website": "https://kodexglobal.com",
+      "industry": "Other",
+      "leads": [
+        "Stacey Wang"
+      ]
+    },
+    {
+      "company": "Vestigo",
+      "website": "https://vestigo.co",
+      "industry": "Other",
+      "leads": [
+        "Andressa Stori"
+      ]
+    },
+    {
+      "company": "Athletic Brewing",
+      "website": "https://athleticbrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Rosalie Kennedy",
+        "Andrew Katz"
+      ]
+    },
+    {
+      "company": "Classy Llama",
+      "website": "https://classyllama.com",
+      "industry": "Other",
+      "leads": [
+        "Schlitz Masheleni"
+      ]
+    },
+    {
+      "company": "MUSH",
+      "website": "https://eatmush.com",
+      "industry": "Other",
+      "leads": [
+        "Sheri Hickey",
+        "Lucy King"
+      ]
+    },
+    {
+      "company": "Hedra",
+      "website": "https://hedra.com",
+      "industry": "Other",
+      "leads": [
+        "Paul Rudwall"
+      ]
+    },
+    {
+      "company": "710 Labs",
+      "website": "https://710labs.com",
+      "industry": "Other",
+      "leads": [
+        "Ethan Waters"
+      ]
+    },
+    {
+      "company": "Kung Fu Tea",
+      "website": "https://kungfutea.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Matthew Poveromo"
+      ]
+    },
+    {
+      "company": "Ghia",
+      "website": "https://drinkghia.com",
+      "industry": "Other",
+      "leads": [
+        "Hanna Pandya Schmitz"
+      ]
+    },
+    {
+      "company": "Valkyrie",
+      "website": "https://valkyrie.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Drishti Wadhwa"
+      ]
+    },
+    {
+      "company": "JASH",
+      "website": "https://jash.com",
+      "industry": "Other",
+      "leads": [
+        "Jared Mirsky"
+      ]
+    },
+    {
+      "company": "Bevi",
+      "website": "https://bevi.co",
+      "industry": "Other",
+      "leads": [
+        "Erin Gunnuscio"
+      ]
+    },
+    {
+      "company": "LiveKit",
+      "website": "https://livekit.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jenny Liang"
+      ]
+    },
+    {
+      "company": "Tastewise",
+      "website": "https://tastewise.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Michael Bortinger"
+      ]
+    },
+    {
+      "company": "Everyday Dose",
+      "website": "https://everydaydose.com",
+      "industry": "Other",
+      "leads": [
+        "Adam Slover",
+        "Ricky Lucas"
+      ]
+    },
+    {
+      "company": "AngelList",
+      "website": "https://angellist.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Madison Waldvogel"
+      ]
+    },
+    {
+      "company": "NuBrakes",
+      "website": "https://nubrakes.com",
+      "industry": "Other",
+      "leads": [
+        "Nafe Alsawfta"
+      ]
+    },
+    {
+      "company": "Martie",
+      "website": "https://martie.com",
+      "industry": "Other",
+      "leads": [
+        "Michelle Nadeau"
+      ]
+    },
+    {
+      "company": "Tubular Labs",
+      "website": "https://tubularlabs.com",
+      "industry": "Other",
+      "leads": [
+        "Jill Nicholson"
+      ]
+    },
+    {
+      "company": "Art Blocks",
+      "website": "https://artblocks.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jaime Derringer"
+      ]
+    },
+    {
+      "company": "Rocket55",
+      "website": "https://rocket55.com",
+      "industry": "Other",
+      "leads": [
+        "David Lovett"
+      ]
+    },
+    {
+      "company": "Earth",
+      "website": "https://earthfuneral.com",
+      "industry": "Other",
+      "leads": [
+        "Ricki Crowley"
+      ]
+    },
+    {
+      "company": "OneTrack.AI",
+      "website": "https://onetrack.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Abby Baumann"
+      ]
+    },
+    {
+      "company": "CustomersAI",
+      "website": "https://customers.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Virginia Nussey"
+      ]
+    },
+    {
+      "company": "Basket Entertainment",
+      "website": "https://basket.holdings",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Amy Zehren"
+      ]
+    },
+    {
+      "company": "Kettle & Fire",
+      "website": "https://kettleandfire.com",
+      "industry": "Other",
+      "leads": [
+        "Leah Swalling"
+      ]
+    },
+    {
+      "company": "Wild Alaskan Company",
+      "website": "https://wildalaskancompany.com",
+      "industry": "Other",
+      "leads": [
+        "Megan Gallagher"
+      ]
+    },
+    {
+      "company": "Alcatraz",
+      "website": "https://alcatraz.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Adrien Julienne"
+      ]
+    },
+    {
+      "company": "QCODE",
+      "website": "https://qcodemedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Jacob Bronstein"
+      ]
+    },
+    {
+      "company": "OpTic Gaming",
+      "website": "https://opticgaming.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Andrew Robinson",
+        "James Sellers"
+      ]
+    },
+    {
+      "company": "High Bank Distillery Co",
+      "website": "https://highbankco.com",
+      "industry": "Other",
+      "leads": [
+        "Adam Hines",
+        "Jenna Fisher"
+      ]
+    },
+    {
+      "company": "Calii",
+      "website": "https://calii.com",
+      "industry": "Other",
+      "leads": [
+        "Alejandra Elosua"
+      ]
+    },
+    {
+      "company": "Passes",
+      "website": "https://passes.com",
+      "industry": "Other",
+      "leads": [
+        "Lucy Quick"
+      ]
+    },
+    {
+      "company": "Eufora International",
+      "website": "https://eufora.net",
+      "industry": "Other",
+      "leads": [
+        "Sam Bewley"
+      ]
+    },
+    {
+      "company": "Freestar",
+      "website": "https://freestar.com",
+      "industry": "Other",
+      "leads": [
+        "Caroline Romano"
+      ]
+    },
+    {
+      "company": "Home Clean Heroes",
+      "website": "https://homecleanheroesfranchise.com",
+      "industry": "Other",
+      "leads": [
+        "Kathy Turley"
+      ]
+    },
+    {
+      "company": "Checkly",
+      "website": "https://checklyhq.com",
+      "industry": "Other",
+      "leads": [
+        "Daniel Giordano"
+      ]
+    },
+    {
+      "company": "Rembrand",
+      "website": "https://rembrand.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Kelsey Franjione"
+      ]
+    },
+    {
+      "company": "Multi Media",
+      "website": "https://multimediallc.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Conner Hulse"
+      ]
+    },
+    {
+      "company": "BevNET.com",
+      "website": "https://bevnet.com",
+      "industry": "Other",
+      "leads": [
+        "Jacqui Brugliera"
+      ]
+    },
+    {
+      "company": "Lotlinx",
+      "website": "https://lotlinx.com",
+      "industry": "Other",
+      "leads": [
+        "Kerri Wise"
+      ]
+    },
+    {
+      "company": "Dirty Hands",
+      "website": "https://dirtyhands.com",
+      "industry": "Other",
+      "leads": [
+        "Brittany Bader"
+      ]
+    },
+    {
+      "company": "Cumulus Coffee",
+      "website": "https://cumuluscoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Zoe Plotsky Rosen"
+      ]
+    },
+    {
+      "company": "Chamberlain Coffee",
+      "website": "https://chamberlaincoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Jeumana Jaber",
+        "Liz Ahern"
+      ]
+    },
+    {
+      "company": "Slang AI",
+      "website": "https://slang.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Austin Pruitt"
+      ]
+    },
+    {
+      "company": "Vivun",
+      "website": "https://vivun.com",
+      "industry": "Other",
+      "leads": [
+        "Jarod Greene"
+      ]
+    },
+    {
+      "company": "SB Telecom America",
+      "website": "https://sb-telecom.com",
+      "industry": "Other",
+      "leads": [
+        "Jorge Caicedo"
+      ]
+    },
+    {
+      "company": "Deeto",
+      "website": "https://deeto.com",
+      "industry": "Other",
+      "leads": [
+        "Shawnna Sumaoang"
+      ]
+    },
+    {
+      "company": "Sound Off",
+      "website": "https://soundoffexperience.com",
+      "industry": "Other",
+      "leads": [
+        "Jill Fiore"
+      ]
+    },
+    {
+      "company": "Family Federation For World Peace And Unification International",
+      "website": "https://familyfed.org",
+      "industry": "Other",
+      "leads": [
+        "Demian Dunkley"
+      ]
+    },
+    {
+      "company": "indigenous",
+      "website": "https://indigenousmedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Rebecca Luxton"
+      ]
+    },
+    {
+      "company": "elvex",
+      "website": "https://elvex.com",
+      "industry": "Other",
+      "leads": [
+        "Doyle Irvin"
+      ]
+    },
+    {
+      "company": "Thirty Tigers",
+      "website": "https://thirtytigers.com",
+      "industry": "Other",
+      "leads": [
+        "Whitney Warner"
+      ]
+    },
+    {
+      "company": "Builder.io",
+      "website": "https://builder.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Sandra Kennedy"
+      ]
+    },
+    {
+      "company": "Arena",
+      "website": "https://arena.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Scott Appleton"
+      ]
+    },
+    {
+      "company": "Passport",
+      "website": "https://passportshipping.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Casey Bright"
+      ]
+    },
+    {
+      "company": "Bambino Sitters",
+      "website": "https://bambinositters.com",
+      "industry": "Other",
+      "leads": [
+        "Rebecca Somach Greene"
+      ]
+    },
+    {
+      "company": "Matchaful",
+      "website": "https://matchaful.com",
+      "industry": "Other",
+      "leads": [
+        "Danielle Brizel"
+      ]
+    },
+    {
+      "company": "Six Foot",
+      "website": "https://6ft.com",
+      "industry": "Other",
+      "leads": [
+        "Manuel Delgado"
+      ]
+    },
+    {
+      "company": "Payabli",
+      "website": "https://payabli.com",
+      "industry": "Other",
+      "leads": [
+        "Marielle Mekkaoui"
+      ]
+    },
+    {
+      "company": "Fair & Square",
+      "website": "https://itsfairandsquare.com",
+      "industry": "Other",
+      "leads": [
+        "Nicole Herman"
+      ]
+    },
+    {
+      "company": "Too Lost",
+      "website": "https://toolost.com",
+      "industry": "Other",
+      "leads": [
+        "Damien Ritter"
+      ]
+    },
+    {
+      "company": "Gaia \ud83c\udf31",
+      "website": "https://gaianet.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ryan Palmieri"
+      ]
+    },
+    {
+      "company": "Compose.ly",
+      "website": "https://compose.ly",
+      "industry": "Other",
+      "leads": [
+        "Nicole Maclean"
+      ]
+    },
+    {
+      "company": "Kluge Interactive",
+      "website": "https://klugeinteractive.com",
+      "industry": "Other",
+      "leads": [
+        "Franco De Cesare"
+      ]
+    },
+    {
+      "company": "The Only Agency",
+      "website": "https://theonly.agency",
+      "industry": "Other",
+      "leads": [
+        "Brett Decker"
+      ]
+    },
+    {
+      "company": "Northbeam",
+      "website": "https://northbeam.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Bryan Bumgardner"
+      ]
+    },
+    {
+      "company": "Uncle Arnie's",
+      "website": "https://unclearnies.com",
+      "industry": "Other",
+      "leads": [
+        "Brian Miesieski"
+      ]
+    },
+    {
+      "company": "Aptos Labs",
+      "website": "https://aptoslabs.com",
+      "industry": "Other",
+      "leads": [
+        "Ariana Gianacopoulos"
+      ]
+    },
+    {
+      "company": "Going Public",
+      "website": "https://goingpublic.com",
+      "industry": "Other",
+      "leads": [
+        "Brett Claywell"
+      ]
+    },
+    {
+      "company": "Equator Coffees",
+      "website": "https://equatorcoffees.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Shelby Colley"
+      ]
+    },
+    {
+      "company": "BR\u0112Z",
+      "website": "https://drinkbrez.com",
+      "industry": "Other",
+      "leads": [
+        "Amy Endemann"
+      ]
+    },
+    {
+      "company": "career.io",
+      "website": "https://career.io",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Anna Klayman"
+      ]
+    },
+    {
+      "company": "Pop & Bottle",
+      "website": "https://popandbottle.com",
+      "industry": "Other",
+      "leads": [
+        "Amelia Winslow"
+      ]
+    },
+    {
+      "company": "Global Gourmet Catering",
+      "website": "https://ggcatering.com",
+      "industry": "Other",
+      "leads": [
+        "Elaine Burrell"
+      ]
+    },
+    {
+      "company": "Blue Interactive Agency",
+      "website": "https://blueinteractiveagency.com",
+      "industry": "Other",
+      "leads": [
+        "Patricia Sotolongo"
+      ]
+    },
+    {
+      "company": "Rock The Bells",
+      "website": "https://rockthebells.com",
+      "industry": "Other",
+      "leads": [
+        "Stone Roberts"
+      ]
+    },
+    {
+      "company": "Raptive",
+      "website": "https://raptive.com",
+      "industry": "Other",
+      "leads": [
+        "Stephanie Dolgins"
+      ]
+    },
+    {
+      "company": "Archetype AI",
+      "website": "https://archetypeai.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Anna Savina"
+      ]
+    },
+    {
+      "company": "Luxury Presence",
+      "website": "https://luxurypresence.com",
+      "industry": "Other",
+      "leads": [
+        "Isabella Gottlieb",
+        "Chris Linsell"
+      ]
+    },
+    {
+      "company": "Classical Theatre of Harlem",
+      "website": "https://cthnyc.org",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Alessandro Chill\u00e9"
+      ]
+    },
+    {
+      "company": "Maisonette",
+      "website": "https://maisonette.com",
+      "industry": "Other",
+      "leads": [
+        "Sarunas Kvederys",
+        "Sally Voyles"
+      ]
+    },
+    {
+      "company": "Open Water",
+      "website": "https://drinkopenwater.com",
+      "industry": "Other",
+      "leads": [
+        "Jess Page"
+      ]
+    },
+    {
+      "company": "TrustLogix",
+      "website": "https://trustlogix.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kim Cook"
+      ]
+    },
+    {
+      "company": "PM Studios",
+      "website": "https://pm-studios.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Ami M. Blaire"
+      ]
+    },
+    {
+      "company": "Perennial",
+      "website": "https://perennial.earth",
+      "industry": "Other",
+      "leads": [
+        "Heidi Sloane"
+      ]
+    },
+    {
+      "company": "AMAZE",
+      "website": "https://amazevr.com",
+      "industry": "Other",
+      "leads": [
+        "Gohree Kim"
+      ]
+    },
+    {
+      "company": "Doodles",
+      "website": "https://doodles.app",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Dotti Sinnott",
+        "Rebekah Ratliff"
+      ]
+    },
+    {
+      "company": "Sightglass Coffee",
+      "website": "https://sightglasscoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Lisa Prange"
+      ]
+    },
+    {
+      "company": "Koia",
+      "website": "https://drinkkoia.com",
+      "industry": "Other",
+      "leads": [
+        "Diane Dilorenzo"
+      ]
+    },
+    {
+      "company": "wikiHow",
+      "website": "https://wikihow.com",
+      "industry": "Other",
+      "leads": [
+        "Isabel Spahn"
+      ]
+    },
+    {
+      "company": "Kiva Brands",
+      "website": "https://kivaconfections.com",
+      "industry": "Other",
+      "leads": [
+        "Lauren Mcnaughton"
+      ]
+    },
+    {
+      "company": "Tortazo",
+      "website": "https://tortazo.com",
+      "industry": "Other",
+      "leads": [
+        "Emma Davenport"
+      ]
+    },
+    {
+      "company": "Voia",
+      "website": "https://voia.com",
+      "industry": "Other",
+      "leads": [
+        "Idan Hana"
+      ]
+    },
+    {
+      "company": "Tally",
+      "website": "https://tally.xyz",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Tyler Bench"
+      ]
+    },
+    {
+      "company": "CustomGPT.ai",
+      "website": "https://customgpt.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Luke Marchand"
+      ]
+    },
+    {
+      "company": "Nature's Fynd",
+      "website": "https://naturesfynd.com",
+      "industry": "Other",
+      "leads": [
+        "Melanie Kahn"
+      ]
+    },
+    {
+      "company": "Luminary",
+      "website": "https://luminarypodcasts.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Miles Hodges",
+        "Coral Lee"
+      ]
+    },
+    {
+      "company": "LoadUp",
+      "website": "https://goloadup.com",
+      "industry": "Other",
+      "leads": [
+        "Tiffany Luther"
+      ]
+    },
+    {
+      "company": "Hoppy",
+      "website": "https://hoppy.com",
+      "industry": "Other",
+      "leads": [
+        "Brynn Whitfield"
+      ]
+    },
+    {
+      "company": "avante",
+      "website": "https://avante.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Rebecca Scully"
+      ]
+    },
+    {
+      "company": "Atrium",
+      "website": "https://atrium.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Natasa Marinkovic"
+      ]
+    },
+    {
+      "company": "Truemed",
+      "website": "https://truemed.com",
+      "industry": "Other",
+      "leads": [
+        "Ben Parens"
+      ]
+    },
+    {
+      "company": "Kintsugi",
+      "website": "https://trykintsugi.com",
+      "industry": "Other",
+      "leads": [
+        "Steve Moskovitz"
+      ]
+    },
+    {
+      "company": "WinIt",
+      "website": "https://winitnow.com",
+      "industry": "Other",
+      "leads": [
+        "Dan Azeroual"
+      ]
+    },
+    {
+      "company": "ABC Home & Commercial Services - Texas",
+      "website": "https://abchomeandcommercial.com",
+      "industry": "Other",
+      "leads": [
+        "Les Stobart"
+      ]
+    },
+    {
+      "company": "ARTECHOUSE",
+      "website": "https://artechouse.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jonathan Beitler"
+      ]
+    },
+    {
+      "company": "Replicated",
+      "website": "https://replicated.com",
+      "industry": "Other",
+      "leads": [
+        "Kaylee Mchugh"
+      ]
+    },
+    {
+      "company": "Join Digital",
+      "website": "https://joindigital.com",
+      "industry": "Other",
+      "leads": [
+        "Amy Hawman"
+      ]
+    },
+    {
+      "company": "Trustible",
+      "website": "https://trustible.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Tanner Bokor"
+      ]
+    },
+    {
+      "company": "Lorikeet",
+      "website": "https://lorikeetcx.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Michelle Wen"
+      ]
+    },
+    {
+      "company": "Cycling Frog",
+      "website": "https://cyclingfrog.com",
+      "industry": "Other",
+      "leads": [
+        "Anita Loomba"
+      ]
+    },
+    {
+      "company": "Dude Perfect",
+      "website": "https://dudeperfect.com",
+      "industry": "Other",
+      "leads": [
+        "Chad Coleman"
+      ]
+    },
+    {
+      "company": "College Pads - Now Part of StarRez",
+      "website": "https://rentcollegepads.com",
+      "industry": "Other",
+      "leads": [
+        "Kyle Hamilton"
+      ]
+    },
+    {
+      "company": "Digital Factory",
+      "website": "https://dgtl-factory.com",
+      "industry": "Other",
+      "leads": [
+        "Briana Davis"
+      ]
+    },
+    {
+      "company": "Wyndy",
+      "website": "https://wyndy.com",
+      "industry": "Other",
+      "leads": [
+        "Ian Diament"
+      ]
+    },
+    {
+      "company": "Kuli Kuli Foods",
+      "website": "https://kulikulifoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Julie Degnan"
+      ]
+    },
+    {
+      "company": "Partake Foods",
+      "website": "https://partakefoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Nikita Mckinney"
+      ]
+    },
+    {
+      "company": "Aquiva Labs",
+      "website": "https://aquivalabs.com",
+      "industry": "Other",
+      "leads": [
+        "Jacob Rouser"
+      ]
+    },
+    {
+      "company": "Doppel",
+      "website": "https://doppel.com",
+      "industry": "Other",
+      "leads": [
+        "Gina Jee"
+      ]
+    },
+    {
+      "company": "Builders + Backers",
+      "website": "https://buildersandbackers.com",
+      "industry": "Other",
+      "leads": [
+        "Gisele Gerry"
+      ]
+    },
+    {
+      "company": "Advocate",
+      "website": "https://ouradvocates.com",
+      "industry": "Other",
+      "leads": [
+        "Andrew Kachel"
+      ]
+    },
+    {
+      "company": "Burst Oral Care",
+      "website": "https://burstoralcare.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Cody Barr"
+      ]
+    },
+    {
+      "company": "Yee-Haw Brewing Company",
+      "website": "https://yeehawbrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kimberly Wunderlich"
+      ]
+    },
+    {
+      "company": "Yieldmo",
+      "website": "https://yieldmo.com",
+      "industry": "Other",
+      "leads": [
+        "Lindsey Digiorgio"
+      ]
+    },
+    {
+      "company": "FloWater",
+      "website": "https://drinkflowater.com",
+      "industry": "Other",
+      "leads": [
+        "Shay Trukov"
+      ]
+    },
+    {
+      "company": "Society6",
+      "website": "https://society6.com",
+      "industry": "Other",
+      "leads": [
+        "Whitney Bonrud"
+      ]
+    },
+    {
+      "company": "Narvar",
+      "website": "https://narvar.com",
+      "industry": "Other",
+      "leads": [
+        "Catherine Dummitt"
+      ]
+    },
+    {
+      "company": "Circle",
+      "website": "https://circle.so",
+      "industry": "Other",
+      "leads": [
+        "Rene Rosendahl"
+      ]
+    },
+    {
+      "company": "iSeatz",
+      "website": "https://iseatz.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Erin Rose Groh"
+      ]
+    },
+    {
+      "company": "Point One Navigation",
+      "website": "https://pointonenav.com",
+      "industry": "Other",
+      "leads": [
+        "Kelsey Flittner"
+      ]
+    },
+    {
+      "company": "NRG",
+      "website": "https://nrg.gg",
+      "industry": "Other",
+      "leads": [
+        "David Cho"
+      ]
+    },
+    {
+      "company": "Inkitt",
+      "website": "https://inkitt.com",
+      "industry": "Other",
+      "leads": [
+        "Michelle Kim"
+      ]
+    },
+    {
+      "company": "Katmai",
+      "website": "https://katmaitech.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "James Donahower"
+      ]
+    },
+    {
+      "company": "Convex",
+      "website": "https://convex.dev",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Abhi Vaidyanatha"
+      ]
+    },
+    {
+      "company": "Treehouse",
+      "website": "https://treehouse.pro",
+      "industry": "Other",
+      "leads": [
+        "Liz Faralli"
+      ]
+    },
+    {
+      "company": "Jampack",
+      "website": "https://jampack.com",
+      "industry": "Other",
+      "leads": [
+        "Nevada Colwell"
+      ]
+    },
+    {
+      "company": "ShipHawk",
+      "website": "https://shiphawk.com",
+      "industry": "Other",
+      "leads": [
+        "Alex Kemp"
+      ]
+    },
+    {
+      "company": "LiveEasy",
+      "website": "https://liveeasy.com",
+      "industry": "Other",
+      "leads": [
+        "Samantha Barton"
+      ]
+    },
+    {
+      "company": "Resident Culture Brewing Company",
+      "website": "https://residentculturebrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Razia Gonzalez"
+      ]
+    },
+    {
+      "company": "Genesis Digital",
+      "website": "https://genesisdigital.co",
+      "industry": "Other",
+      "leads": [
+        "Josh Kedzuch"
+      ]
+    },
+    {
+      "company": "Actors' Shakespeare Project",
+      "website": "https://actorsshakespeareproject.org",
+      "industry": "Other",
+      "leads": [
+        "Evan Turissini"
+      ]
+    },
+    {
+      "company": "WISEcode",
+      "website": "https://wisecode.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Jason Eisenberg"
+      ]
+    },
+    {
+      "company": "1stDibs",
+      "website": "https://1stdibs.com",
+      "industry": "Other",
+      "leads": [
+        "Jared Weiss"
+      ]
+    },
+    {
+      "company": "Grocery TV",
+      "website": "https://grocerytv.com",
+      "industry": "Other",
+      "leads": [
+        "Ashley Nickell"
+      ]
+    },
+    {
+      "company": "Matouk",
+      "website": "https://matouk.com",
+      "industry": "Other",
+      "leads": [
+        "Dennis Sarlo"
+      ]
+    },
+    {
+      "company": "Ode",
+      "website": "https://ode.partners",
+      "industry": "Other",
+      "leads": [
+        "Scott Quill"
+      ]
+    },
+    {
+      "company": "FaZe Clan",
+      "website": "https://fazeclan.com",
+      "industry": "Other",
+      "leads": [
+        "Rita Mcmillin",
+        "Taav Cooperman",
+        "Addison Dailey"
+      ]
+    },
+    {
+      "company": "Forerunner",
+      "website": "https://withforerunner.com",
+      "industry": "Other",
+      "leads": [
+        "Meghan Finlayson"
+      ]
+    },
+    {
+      "company": "MUD\\WTR",
+      "website": "https://mudwtr.com",
+      "industry": "Other",
+      "leads": [
+        "Megan Scott"
+      ]
+    },
+    {
+      "company": "Skio",
+      "website": "https://skio.com",
+      "industry": "Other",
+      "leads": [
+        "Allen Finn"
+      ]
+    },
+    {
+      "company": "BallerTV",
+      "website": "https://ballertv.com",
+      "industry": "Other",
+      "leads": [
+        "Brendan Baker"
+      ]
+    },
+    {
+      "company": "Tampa Bay Brewing Company",
+      "website": "https://tbbc.beer",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Taylor Chapman"
+      ]
+    },
+    {
+      "company": "Clutch",
+      "website": "https://clutch.co",
+      "industry": "Other",
+      "leads": [
+        "Greg Carter"
+      ]
+    },
+    {
+      "company": "Land-Grant Brewing Company",
+      "website": "https://landgrantbrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Rachel Rudy"
+      ]
+    },
+    {
+      "company": "Lifetime Brands",
+      "website": "https://lifetimebrands.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Heather Schall",
+        "Stephen Spitz"
+      ]
+    },
+    {
+      "company": "Good2Go",
+      "website": "https://bgood2go.com",
+      "industry": "Other",
+      "leads": [
+        "Colton Coty"
+      ]
+    },
+    {
+      "company": "RYZE",
+      "website": "https://ryzesuperfoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Desiree Guerra"
+      ]
+    },
+    {
+      "company": "RentRedi",
+      "website": "https://rentredi.com",
+      "industry": "Other",
+      "leads": [
+        "Crystal Abing"
+      ]
+    },
+    {
+      "company": "Kaymbu",
+      "website": "https://kaymbu.com",
+      "industry": "Other",
+      "leads": [
+        "Madeline Reich"
+      ]
+    },
+    {
+      "company": "Hive Digital",
+      "website": "https://hivedigital.com",
+      "industry": "Other",
+      "leads": [
+        "Jacob Stewart"
+      ]
+    },
+    {
+      "company": "Community.co",
+      "website": "https://community.co",
+      "industry": "Other",
+      "leads": [
+        "Allison Potts"
+      ]
+    },
+    {
+      "company": "Civicom",
+      "website": "https://civi.com",
+      "industry": "Other",
+      "leads": [
+        "Kathy Gilmette"
+      ]
+    },
+    {
+      "company": "Learner Education",
+      "website": "https://learner.com",
+      "industry": "Other",
+      "leads": [
+        "Mathias Neves"
+      ]
+    },
+    {
+      "company": "Sefaria",
+      "website": "https://sefaria.org",
+      "industry": "Other",
+      "leads": [
+        "Chava Tzemach"
+      ]
+    },
+    {
+      "company": "Trust & Will",
+      "website": "https://trustandwill.com",
+      "industry": "Other",
+      "leads": [
+        "Molly Peters"
+      ]
+    },
+    {
+      "company": "Slate Milk",
+      "website": "https://slatemilk.com",
+      "industry": "Other",
+      "leads": [
+        "Ron Lubin"
+      ]
+    },
+    {
+      "company": "NetReputation.com",
+      "website": "https://netreputation.com",
+      "industry": "Other",
+      "leads": [
+        "Brandon Purdum"
+      ]
+    },
+    {
+      "company": "Insurify",
+      "website": "https://insurify.com",
+      "industry": "Other",
+      "leads": [
+        "Evelyn Pimplaskar"
+      ]
+    },
+    {
+      "company": "The ISA",
+      "website": "https://mtrbio.com",
+      "industry": "Health & Wellness",
+      "leads": [
+        "Scott Markus"
+      ]
+    },
+    {
+      "company": "Sora Partners",
+      "website": "https://sorapartners.com",
+      "industry": "Other",
+      "leads": [
+        "Michelle Thompson"
+      ]
+    },
+    {
+      "company": "Stonestreet Studios",
+      "website": "https://stonestreet.net",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Kelly Wong"
+      ]
+    },
+    {
+      "company": "Dcode",
+      "website": "https://dcode.co",
+      "industry": "Other",
+      "leads": [
+        "Phil King"
+      ]
+    },
+    {
+      "company": "Tip Top Proper Cocktails",
+      "website": "https://tiptopcocktails.com",
+      "industry": "Other",
+      "leads": [
+        "Josh Guss"
+      ]
+    },
+    {
+      "company": "Brafton",
+      "website": "https://brafton.com",
+      "industry": "Other",
+      "leads": [
+        "Molly Ploe"
+      ]
+    },
+    {
+      "company": "DFX",
+      "website": "https://dfxsoundvision.com",
+      "industry": "Other",
+      "leads": [
+        "Danielle Hardin"
+      ]
+    },
+    {
+      "company": "Aubergine Kitchen",
+      "website": "https://auberginekitchen.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Julia Zanatta Lawlor"
+      ]
+    },
+    {
+      "company": "Salem Web Network",
+      "website": "https://salemwebnetwork.com",
+      "industry": "Other",
+      "leads": [
+        "Shawn Mcevoy"
+      ]
+    },
+    {
+      "company": "MoneyGeek",
+      "website": "https://moneygeek.com",
+      "industry": "Other",
+      "leads": [
+        "Mark Fitzpatrick",
+        "Nathan Paulus"
+      ]
+    },
+    {
+      "company": "Memes Media Group",
+      "website": "https://memesmediagroup.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Andrew Price"
+      ]
+    },
+    {
+      "company": "JDog\u00ae Brands",
+      "website": "https://jdogbrands.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Foley Chase"
+      ]
+    },
+    {
+      "company": "Elite Food Safety Training",
+      "website": "https://elitefoodsafety.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Laura Geer"
+      ]
+    },
+    {
+      "company": "Nations Info Corp",
+      "website": "https://nationsinfocorp.com",
+      "industry": "Other",
+      "leads": [
+        "Warren Tam"
+      ]
+    },
+    {
+      "company": "Virtual Athletics League",
+      "website": "https://valvr.com",
+      "industry": "Other",
+      "leads": [
+        "Jeff Brooks"
+      ]
+    },
+    {
+      "company": "Blue Note Entertainment Group",
+      "website": "https://bluenotejazz.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Ryan Metosky"
+      ]
+    },
+    {
+      "company": "Metro \u2022 smartbar \u2022 Gman Tavern",
+      "website": "https://metrochicago.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Stacey Marquardt",
+        "Genna Saccomonto"
+      ]
+    },
+    {
+      "company": "Sail Internet",
+      "website": "https://sailinternet.com",
+      "industry": "Other",
+      "leads": [
+        "Bobette Wolf"
+      ]
+    },
+    {
+      "company": "Matrix Group International",
+      "website": "https://matrixgroup.net",
+      "industry": "Other",
+      "leads": [
+        "Leah Monica"
+      ]
+    },
+    {
+      "company": "DeviantArt",
+      "website": "https://deviantart.com",
+      "industry": "Other",
+      "leads": [
+        "Lauren R"
+      ]
+    },
+    {
+      "company": "Tony's Coffee",
+      "website": "https://tonyscoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Cheriss Faiola"
+      ]
+    },
+    {
+      "company": "Rival Bros Coffee",
+      "website": "https://rivalbros.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "James Narog"
+      ]
+    },
+    {
+      "company": "Scavuzzo's Inc",
+      "website": "https://scavuzzos.com",
+      "industry": "Other",
+      "leads": [
+        "Angela Scavuzzo"
+      ]
+    },
+    {
+      "company": "Draeger's Markets",
+      "website": "https://draegers.com",
+      "industry": "Other",
+      "leads": [
+        "Tori Draeger"
+      ]
+    },
+    {
+      "company": "Exploding Kittens",
+      "website": "https://explodingkittens.com",
+      "industry": "Other",
+      "leads": [
+        "Daisy Lidz"
+      ]
+    },
+    {
+      "company": "Pinecrest Bakery",
+      "website": "https://pinecrestbakery.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Victoria Ellen Ramos Valdes"
+      ]
+    },
+    {
+      "company": "Rebecca Creek Distillery",
+      "website": "https://rebeccacreekdistillery.com",
+      "industry": "Other",
+      "leads": [
+        "Gina Jackson"
+      ]
+    },
+    {
+      "company": "Kirschbaum",
+      "website": "https://kirschbaumdevelopment.com",
+      "industry": "Other",
+      "leads": [
+        "Ben Burrell"
+      ]
+    },
+    {
+      "company": "FANBASIS",
+      "website": "https://fanbasis.com",
+      "industry": "Other",
+      "leads": [
+        "Noah Friedman"
+      ]
+    },
+    {
+      "company": "ClusterTruck",
+      "website": "https://clustertruck.com",
+      "industry": "Other",
+      "leads": [
+        "Evan Sherrill"
+      ]
+    },
+    {
+      "company": "Little Man Ice Cream",
+      "website": "https://littlemanicecream.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sarah Marie"
+      ]
+    },
+    {
+      "company": "Epic Web Studios",
+      "website": "https://epicwebstudios.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Amanda Woiner",
+        "Matthew Swanseger"
+      ]
+    },
+    {
+      "company": "World of Illumination",
+      "website": "https://worldofillumination.com",
+      "industry": "Other",
+      "leads": [
+        "Brendan Maxwell"
+      ]
+    },
+    {
+      "company": "Chocolate Shoppe Ice Cream Company",
+      "website": "https://chocolateshoppeicecream.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Rebecca Stoffs"
+      ]
+    },
+    {
+      "company": "iMemories",
+      "website": "https://imemories.com",
+      "industry": "Other",
+      "leads": [
+        "Geoffrey Schultz"
+      ]
+    },
+    {
+      "company": "Pyxl",
+      "website": "https://pyxl.com",
+      "industry": "Other",
+      "leads": [
+        "Kati Terzinski"
+      ]
+    },
+    {
+      "company": "Royal Gold",
+      "website": "https://royalgoldcoco.com",
+      "industry": "Other",
+      "leads": [
+        "Michael Beck"
+      ]
+    },
+    {
+      "company": "Cosentino's Food Stores",
+      "website": "https://cosentinos.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Chad Weinzerl"
+      ]
+    },
+    {
+      "company": "Logjam Presents",
+      "website": "https://logjampresents.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Ryan Torres"
+      ]
+    },
+    {
+      "company": "Chip City",
+      "website": "https://chipcitycookies.com",
+      "industry": "Other",
+      "leads": [
+        "Theodore Gailas"
+      ]
+    },
+    {
+      "company": "Authorify",
+      "website": "https://authorify.com",
+      "industry": "Other",
+      "leads": [
+        "Charles Curry"
+      ]
+    },
+    {
+      "company": "Elliot Systems",
+      "website": "https://elliotsystems.com",
+      "industry": "Other",
+      "leads": [
+        "Asha Dhume"
+      ]
+    },
+    {
+      "company": "Midland Community Theatre",
+      "website": "https://mctmidland.org",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Britt Hoffman"
+      ]
+    },
+    {
+      "company": "Austin Bazaar",
+      "website": "https://austinbazaar.com",
+      "industry": "Other",
+      "leads": [
+        "Jason Birchmeier"
+      ]
+    },
+    {
+      "company": "Rogue Ales & Spirits",
+      "website": "https://rogue.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Devin Moore"
+      ]
+    },
+    {
+      "company": "Bishop Cider & Cidercade",
+      "website": "https://bishopcider.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "Weston Berkovsky"
+      ]
+    },
+    {
+      "company": "Alderac Entertainment Group",
+      "website": "https://alderac.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Todd Rowland",
+        "Adelheid Zimmerman"
+      ]
+    },
+    {
+      "company": "The Music Room (tmraudio.com)",
+      "website": "https://tmraudio.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Michael Schmidgall"
+      ]
+    },
+    {
+      "company": "Nappy Boy Enterprises",
+      "website": "https://nappyboy.net",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Cody Borden"
+      ]
+    },
+    {
+      "company": "Scalable Commerce",
+      "website": "https://scalablecommerce.com",
+      "industry": "DTC / E-commerce",
+      "leads": [
+        "John Serpa"
+      ]
+    },
+    {
+      "company": "ROYCE' Chocolate USA",
+      "website": "https://roycechocolate.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kamylle Galdones"
+      ]
+    },
+    {
+      "company": "Big Easy Foods",
+      "website": "https://bigeasyfoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Fredrick James Werquin"
+      ]
+    },
+    {
+      "company": "Saugatuck Brewing Company",
+      "website": "https://sbrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sara Van Splinter"
+      ]
+    },
+    {
+      "company": "GOHUNT",
+      "website": "https://gohunt.com",
+      "industry": "Other",
+      "leads": [
+        "Kevin Rugnetta"
+      ]
+    },
+    {
+      "company": "John Robert's Spa",
+      "website": "https://johnrobertsspa.com",
+      "industry": "Other",
+      "leads": [
+        "Mia Pesce Coleman"
+      ]
+    },
+    {
+      "company": "Hot Head Burritos",
+      "website": "https://hotheadburritos.com",
+      "industry": "Other",
+      "leads": [
+        "Peter Wiley"
+      ]
+    },
+    {
+      "company": "Spill Hero",
+      "website": "https://spillhero.com",
+      "industry": "Other",
+      "leads": [
+        "Tom Lawlor"
+      ]
+    },
+    {
+      "company": "Labatt Food Service",
+      "website": "https://labattfood.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Rebecca Lacy"
+      ]
+    },
+    {
+      "company": "Other Half Brewing Company",
+      "website": "https://otherhalfbrewing.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kassala Holdsclaw"
+      ]
+    },
+    {
+      "company": "Chattanooga Symphony & Opera",
+      "website": "https://chattsymphony.org",
+      "industry": "Other",
+      "leads": [
+        "Julia Milrod"
+      ]
+    },
+    {
+      "company": "Fixxology Drinks",
+      "website": "https://fixxologydrinks.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sadie Banks"
+      ]
+    },
+    {
+      "company": "Pickleman's Franchising",
+      "website": "https://picklemans.com",
+      "industry": "Other",
+      "leads": [
+        "Caroline Niemann"
+      ]
+    },
+    {
+      "company": "Five Star Franchising",
+      "website": "https://fivestarfranchising.com",
+      "industry": "Other",
+      "leads": [
+        "Juan Oliveira"
+      ]
+    },
+    {
+      "company": "Loaded",
+      "website": "https://loaded.gg",
+      "industry": "Other",
+      "leads": [
+        "Sebastian Bernal"
+      ]
+    },
+    {
+      "company": "The UC Theatre",
+      "website": "https://theuctheatre.org",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Lamont E. Harper"
+      ]
+    },
+    {
+      "company": "HuHot Mongolian Grill",
+      "website": "https://huhot.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Molly Vap O'"
+      ]
+    },
+    {
+      "company": "Lottery Now",
+      "website": "https://lottery-now.com",
+      "industry": "Other",
+      "leads": [
+        "Aling Zhang"
+      ]
+    },
+    {
+      "company": "101domain.com",
+      "website": "https://101domain.com",
+      "industry": "Other",
+      "leads": [
+        "Nick Thornton"
+      ]
+    },
+    {
+      "company": "Cheyenne Frontier Days",
+      "website": "https://cfdrodeo.com",
+      "industry": "Other",
+      "leads": [
+        "Nicole Gamst"
+      ]
+    },
+    {
+      "company": "The Boiling Crab",
+      "website": "https://theboilingcrab.com",
+      "industry": "Other",
+      "leads": [
+        "Winnie Vu"
+      ]
+    },
+    {
+      "company": "Ben's Soft Pretzels",
+      "website": "https://benspretzels.com",
+      "industry": "Other",
+      "leads": [
+        "Rich Trowbridge"
+      ]
+    },
+    {
+      "company": "Academy Center of the Arts",
+      "website": "https://academycenter.org",
+      "industry": "Other",
+      "leads": [
+        "Joel Williams"
+      ]
+    },
+    {
+      "company": "Teton Pines Resort & Country Club",
+      "website": "https://tetonpines.com",
+      "industry": "Other",
+      "leads": [
+        "Clark Hayden"
+      ]
+    },
+    {
+      "company": "AgriLawn",
+      "website": "https://agrilawn.com",
+      "industry": "Other",
+      "leads": [
+        "Ann Lally"
+      ]
+    },
+    {
+      "company": "Western Market",
+      "website": "https://westernmkt.com",
+      "industry": "Other",
+      "leads": [
+        "Alana Carlson"
+      ]
+    },
+    {
+      "company": "Cousins Maine Lobster",
+      "website": "https://cousinsmainelobster.com",
+      "industry": "Other",
+      "leads": [
+        "Allison Pillar"
+      ]
+    },
+    {
+      "company": "Running Subway Productions",
+      "website": "https://runningsubway.com",
+      "industry": "Other",
+      "leads": [
+        "Kelley Anderson"
+      ]
+    },
+    {
+      "company": "VERSUS",
+      "website": "https://versusequity.com",
+      "industry": "Other",
+      "leads": [
+        "Nick Poto"
+      ]
+    },
+    {
+      "company": "Tribe Gaming",
+      "website": "https://tribegaming.gg",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Gregory Fraser"
+      ]
+    },
+    {
+      "company": "Muse Paintbar",
+      "website": "https://musepaintbar.com",
+      "industry": "Other",
+      "leads": [
+        "Karrie Whisler"
+      ]
+    },
+    {
+      "company": "Intimacy Directors and Coordinators (IDC)",
+      "website": "https://idcprofessionals.com",
+      "industry": "Other",
+      "leads": [
+        "Marie C Percy"
+      ]
+    },
+    {
+      "company": "Billy Bob's Texas",
+      "website": "https://billybobstexas.com",
+      "industry": "Other",
+      "leads": [
+        "Amanda Banda"
+      ]
+    },
+    {
+      "company": "Tantiv4",
+      "website": "https://tantiv4.com",
+      "industry": "Other",
+      "leads": [
+        "Sachin Kalanke"
+      ]
+    },
+    {
+      "company": "Mayorga Coffee",
+      "website": "https://mayorgacoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Clari Mayorga"
+      ]
+    },
+    {
+      "company": "Less Annoying CRM",
+      "website": "https://lessannoyingcrm.com",
+      "industry": "Other",
+      "leads": [
+        "Eunice Koo"
+      ]
+    },
+    {
+      "company": "The Touch Agency",
+      "website": "https://thetouchagency.com",
+      "industry": "Other",
+      "leads": [
+        "Lynda Bowen"
+      ]
+    },
+    {
+      "company": "Scrapbook.com",
+      "website": "https://scrapbook.com",
+      "industry": "Other",
+      "leads": [
+        "Jessica Harrington"
+      ]
+    },
+    {
+      "company": "Beehive Meals",
+      "website": "https://beehivemeals.com",
+      "industry": "Other",
+      "leads": [
+        "Annette Wilson"
+      ]
+    },
+    {
+      "company": "FreshSource",
+      "website": "https://freshsource.info",
+      "industry": "Other",
+      "leads": [
+        "Natalie J. Machado"
+      ]
+    },
+    {
+      "company": "SilverAssist",
+      "website": "https://silverassist.com",
+      "industry": "Other",
+      "leads": [
+        "Rhyan Sharkey"
+      ]
+    },
+    {
+      "company": "PMW",
+      "website": "https://propertymanagerwebsites.com",
+      "industry": "Other",
+      "leads": [
+        "Samantha Adams"
+      ]
+    },
+    {
+      "company": "Fulton Theatre",
+      "website": "https://thefulton.org",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Kevin Faraci"
+      ]
+    },
+    {
+      "company": "BELFOR Franchise Group",
+      "website": "https://belforfranchisegroup.com",
+      "industry": "Other",
+      "leads": [
+        "Josh Wartena"
+      ]
+    },
+    {
+      "company": "Punch Edibles & Extracts",
+      "website": "https://punchedibles.com",
+      "industry": "Other",
+      "leads": [
+        "Jamie Hechtl"
+      ]
+    },
+    {
+      "company": "Kaldis Coffee Roasting Company",
+      "website": "https://kaldiscoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Aaron Johnson",
+        "Frank Mcginty"
+      ]
+    },
+    {
+      "company": "Blue Note Hawaii",
+      "website": "https://bluenotehawaii.com",
+      "industry": "Other",
+      "leads": [
+        "Corey Quinones"
+      ]
+    },
+    {
+      "company": "Primo Partners",
+      "website": "https://primopartners.com",
+      "industry": "Other",
+      "leads": [
+        "Taylor Gray"
+      ]
+    },
+    {
+      "company": "Woods Coffee",
+      "website": "https://woodscoffee.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Ryan Spiker"
+      ]
+    },
+    {
+      "company": "Audiomachine Official",
+      "website": "https://audiomachine.com",
+      "industry": "Other",
+      "leads": [
+        "Ariannah Gaiser"
+      ]
+    },
+    {
+      "company": "SLUSA",
+      "website": "https://slusa.com",
+      "industry": "Other",
+      "leads": [
+        "Jeff Ingram"
+      ]
+    },
+    {
+      "company": "Jazz Arts Group",
+      "website": "https://jazzartsgroup.org",
+      "industry": "Other",
+      "leads": [
+        "Kendal Smith"
+      ]
+    },
+    {
+      "company": "Paper Street Media",
+      "website": "https://paperstreetmedia.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Ariel Vera"
+      ]
+    },
+    {
+      "company": "Innovative Artists",
+      "website": "https://innovativeartists.com",
+      "industry": "Other",
+      "leads": [
+        "Maggie Dumais"
+      ]
+    },
+    {
+      "company": "DealNews",
+      "website": "https://dealnews.com",
+      "industry": "Other",
+      "leads": [
+        "Jim Adams"
+      ]
+    },
+    {
+      "company": "Crave Cookies",
+      "website": "https://cravecookies.com",
+      "industry": "Other",
+      "leads": [
+        "Trent English"
+      ]
+    },
+    {
+      "company": "Kate's Real Food",
+      "website": "https://katesrealfood.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Brittany Thaler"
+      ]
+    },
+    {
+      "company": "Captain Labs",
+      "website": "https://xp.tickets",
+      "industry": "Other",
+      "leads": [
+        "Daniela Sterba"
+      ]
+    },
+    {
+      "company": "Visp.net",
+      "website": "https://visp.net",
+      "industry": "Other",
+      "leads": [
+        "Todd Derek"
+      ]
+    },
+    {
+      "company": "Rundoo",
+      "website": "https://getrundoo.com",
+      "industry": "Other",
+      "leads": [
+        "Clara Shapero"
+      ]
+    },
+    {
+      "company": "Cubix",
+      "website": "https://cubix.co",
+      "industry": "Other",
+      "leads": [
+        "Elvina Salmon"
+      ]
+    },
+    {
+      "company": "Air Apps",
+      "website": "https://airapps.co",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Janina Ferreira"
+      ]
+    },
+    {
+      "company": "Spendflo",
+      "website": "https://spendflo.com",
+      "industry": "Other",
+      "leads": [
+        "Nivas Ravichandran"
+      ]
+    },
+    {
+      "company": "Ablo by Space Runners",
+      "website": "https://ablo.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Alejo Escriva"
+      ]
+    },
+    {
+      "company": "Sogolytics",
+      "website": "https://sogolytics.com",
+      "industry": "Other",
+      "leads": [
+        "Jacob Simkovich"
+      ]
+    },
+    {
+      "company": "NewDays",
+      "website": "https://newdays.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Rachel Lanham"
+      ]
+    },
+    {
+      "company": "Cloaked",
+      "website": "https://cloaked.com",
+      "industry": "Other",
+      "leads": [
+        "Pulkit Gupta"
+      ]
+    },
+    {
+      "company": "Sweet Chick",
+      "website": "https://sweetchick.com",
+      "industry": "Other",
+      "leads": [
+        "Anu Awonusi"
+      ]
+    },
+    {
+      "company": "Trinesis Technologies",
+      "website": "https://trinesis.com",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Abby Vad"
+      ]
+    },
+    {
+      "company": "Smokiez Handcrafted Edibles",
+      "website": "https://smokiez.com",
+      "industry": "Other",
+      "leads": [
+        "Brianna Grignon"
+      ]
+    },
+    {
+      "company": "Cake Equity",
+      "website": "https://cakeequity.com",
+      "industry": "Other",
+      "leads": [
+        "Elise Peate"
+      ]
+    },
+    {
+      "company": "Gold Bar Spirits Company",
+      "website": "https://goldbarwhiskey.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Sam Thumm"
+      ]
+    },
+    {
+      "company": "Cirque Italia",
+      "website": "https://cirqueitalia.com",
+      "industry": "Other",
+      "leads": [
+        "Matteo Clava"
+      ]
+    },
+    {
+      "company": "KresusLabs",
+      "website": "https://kresus.com",
+      "industry": "Other",
+      "leads": [
+        "Nathan Fell"
+      ]
+    },
+    {
+      "company": "ClassBento",
+      "website": "https://classbento.com",
+      "industry": "Other",
+      "leads": [
+        "Katie Milton"
+      ]
+    },
+    {
+      "company": "Sixfold",
+      "website": "https://sixfold.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Maja Hamberg"
+      ]
+    },
+    {
+      "company": "Solstice Labs",
+      "website": "https://solsticelabs.io",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Ryan Day"
+      ]
+    },
+    {
+      "company": "Canyon Club Brewery",
+      "website": "https://canyonclub.works",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Stephanie Hamilton"
+      ]
+    },
+    {
+      "company": "REV Delivery",
+      "website": "https://rev.delivery",
+      "industry": "Other",
+      "leads": [
+        "Nickolas Platin"
+      ]
+    },
+    {
+      "company": "My Fit Foods",
+      "website": "https://myfitfoods.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Bristi S."
+      ]
+    },
+    {
+      "company": "Solana Labs",
+      "website": "https://solanalabs.com",
+      "industry": "Other",
+      "leads": [
+        "Ross Cohen"
+      ]
+    },
+    {
+      "company": "Eastland Food Corporation",
+      "website": "https://eastlandfood.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Eva Im"
+      ]
+    },
+    {
+      "company": "800 Pound Gorilla Media",
+      "website": "https://800poundgorillarecords.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Amanda Zuckerman"
+      ]
+    },
+    {
+      "company": "Funny Or Die",
+      "website": "https://funnyordie.com",
+      "industry": "Other",
+      "leads": [
+        "Ben Rosen"
+      ]
+    },
+    {
+      "company": "Sparked Host",
+      "website": "https://sparkedhost.com",
+      "industry": "Other",
+      "leads": [
+        "Mason Baker"
+      ]
+    },
+    {
+      "company": "Yogibo",
+      "website": "https://yogibo.com",
+      "industry": "Other",
+      "leads": [
+        "Robert Worrell"
+      ]
+    },
+    {
+      "company": "Openings.com",
+      "website": "https://openings.com",
+      "industry": "Other",
+      "leads": [
+        "Emily Murphy"
+      ]
+    },
+    {
+      "company": "Peachtree Entertainment",
+      "website": "https://peachtreeent.com",
+      "industry": "Entertainment / Media",
+      "leads": [
+        "Blake Harbison"
+      ]
+    },
+    {
+      "company": "TipTop Technologies",
+      "website": "https://mind360.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Abhinav Kulkarni"
+      ]
+    },
+    {
+      "company": "Alleyoop",
+      "website": "https://meetalleyoop.com",
+      "industry": "Other",
+      "leads": [
+        "Luka Wilson"
+      ]
+    },
+    {
+      "company": "Tytan Pictures",
+      "website": "https://tytanpictures.com",
+      "industry": "Other",
+      "leads": [
+        "Jim Stone"
+      ]
+    },
+    {
+      "company": "Chubby Group",
+      "website": "https://chubbygroup.com",
+      "industry": "Other",
+      "leads": [
+        "April Li"
+      ]
+    },
+    {
+      "company": "Tom's of Maine",
+      "website": "https://tomsofmaine.com",
+      "industry": "Other",
+      "leads": [
+        "Jenny Ma"
+      ]
+    },
+    {
+      "company": "The Dog Wizard",
+      "website": "https://thedogwizard.com",
+      "industry": "Other",
+      "leads": [
+        "Savanna Tolley"
+      ]
+    },
+    {
+      "company": "Pinhook Bourbon",
+      "website": "https://pinhookbourbon.com",
+      "industry": "Other",
+      "leads": [
+        "Bryce Goodwin"
+      ]
+    },
+    {
+      "company": "Shake Smart",
+      "website": "https://shakesmart.com",
+      "industry": "Other",
+      "leads": [
+        "Daisy Agebsar"
+      ]
+    },
+    {
+      "company": "Rooftop Chimney Sweeps",
+      "website": "https://rooftopchimneysweeps.com",
+      "industry": "Other",
+      "leads": [
+        "Cole J"
+      ]
+    },
+    {
+      "company": "Back At You",
+      "website": "https://backatyou.com",
+      "industry": "Other",
+      "leads": [
+        "Michael Tomasetti"
+      ]
+    },
+    {
+      "company": "Perle",
+      "website": "https://perle.ai",
+      "industry": "Tech / SaaS",
+      "leads": [
+        "Kate Rechenmacher"
+      ]
+    },
+    {
+      "company": "Agent IQ",
+      "website": "https://agentiq.com",
+      "industry": "Other",
+      "leads": [
+        "Matt Phipps"
+      ]
+    },
+    {
+      "company": "Blind",
+      "website": "https://teamblind.com",
+      "industry": "CPG / Food & Beverage",
+      "leads": [
+        "Yoonmi Park"
+      ]
+    }
+  ]
+}

@@ -2,6 +2,205 @@
 
 ---
 
+## Sync Update — 2026-04-08
+
+**AI hallucination crisis in Gemini-generated Email 1 copy. Wrong persona targeting (Sales, Client Success, PLG). Education vertical confirmed for removal. 3 new positive replies (NEOGOV, Evolve, Palm Beach Schools).**
+
+### Metrics as of 2026-04-08
+
+| ID | Campaign | Status | Leads | Sent | Replies (raw) | Replies (human) | Reply % (human) | Interested | Bounced | Bounce % | Completion % |
+|----|----------|--------|-------|------|---------------|-----------------|-----------------|------------|---------|----------|-------------|
+| 118 | Tongal Outlook to Google | Active | 1,587 | 2,723 | 152 | 27 | 1.0% | 4 | 20 | 0.7% | 89.0% |
+| 86 | Tongal Google | Active | 3,318 | 4,469 | 222 | 32 | 0.7% | 1 | 62 | 1.4% | 69.0% |
+| 87 | Tongal Outlook | Paused | 1,872 | 1,148 | 3 | ~2 | ~0.1% | 0 | 17 | 1.5% | 31.1% |
+| 38 | Tongal Growth | Paused | 7,941 | 2,140 | 42 | ~17 | ~0.8% | 1 | 183 | 8.6% | 8.7% |
+
+**Change vs 2026-04-02:** C118 sent +1,508 (+124%), completion 39%→89%. C86 sent +2,158 (+93%), completion 35%→69%. OOO inflation massive: 82% of C118 replies and 86% of C86 replies are automated.
+
+---
+
+### Tongal Google (86) — Copy Changes
+
+_BEFORE = an ACTUAL email sent to a real lead, pulled from EmailBison conversation thread API. AFTER = suggested update based on reply intelligence from this sync._
+
+---
+
+#### Email 1 — BEFORE (actual email sent to Giselle Rahn at Evolve)
+
+**Subject:** Evolve + video production
+
+**Body:**
+```
+Hi Giselle,
+
+Saw that you recently moved up to Senior Director, Marketing & Experience Design at Evolve.
+
+Brands like Nike: We helped Nike scale authentic creator content through the Nike Creator Program, building deeper relationships with brand ambassadors., Disney: We helped Disney celebrate Alien's 40th anniversary by selecting 6 filmmakers from 550+ pitches to create fan-made shorts that debuted at major conventions. and BetterHelp: We helped BetterHelp drive platform sign-ups with a testimonial campaign that served 50M+ impressions and cut Cost Per Acquisition by 35%. use Tongal to produce broadcast quality video, animation, and social content through our global community of 160,000 creators across 175 countries.
+
+Faster than an agency, a fraction of the cost, and you own everything.
+
+Worth exploring for Evolve?
+
+Peter Kim
+Account Manager @ Tongal
+
+P.S. In case this isn't a fit, please let me know and I'll stop reaching out.
+```
+
+**Their reply:** "Hi Peter, sure if you'd like to send a short summary over email that would be great. Thanks for reaching out." — Classification: POSITIVE (replied to Email 2 follow-up)
+
+**Problems found in this actual email:**
+- **AI HALLUCINATION (CRITICAL)**: Gemini dumped the ENTIRE case study description into the social proof line. Instead of "Brands like Nike, Disney and BetterHelp use Tongal...", the email says "Brands like Nike: We helped Nike scale authentic creator content through the Nike Creator Program, building deeper relationships with brand ambassadors., Disney: We helped Disney celebrate Alien's 40th anniversary by selecting 6 filmmakers from 550+ pitches to create fan-made shorts..." — This is unreadable and destroys credibility.
+- **Industry mismatch**: Evolve is a vacation rental/hospitality company. Email 2 calls them a "Hospitality brand" but uses Nike as the case study — Nike is not hospitality.
+- Despite these problems, the lead replied positively to Email 2. The Email 2 template (audit offer) is working even when Email 1 fails.
+
+---
+
+#### Email 1 — AFTER (suggested 2026-04-08)
+
+**Subject:** Evolve's content
+
+**Body:**
+```
+Hi Giselle,
+
+Saw that you moved up to Senior Director at Evolve - congrats.
+
+Brands like BetterHelp, Disney and Samsung use Tongal to produce broadcast quality video, animation, and social content through our community of 160,000 creators across 175 countries.
+
+Faster than an agency, a fraction of the cost, and you own everything.
+
+Worth exploring for Evolve?
+```
+
+**What changed and why:**
+- **Case studies:** `Nike: We helped Nike scale...` (hallucinated paragraph) → `BetterHelp, Disney and Samsung` (clean brand names only) — Gemini AI must output ONLY brand names, never case study descriptions
+- **Hook:** `recently moved up to Senior Director, Marketing & Experience Design` → `moved up to Senior Director` — simpler, less robotic
+- **Word count:** ~180 words (broken) → 62 words (within 60-80 range)
+
+**Root cause fix needed:** The Gemini prompt for Email 1 copy generation is pulling full case study descriptions from the context instead of just brand names. The prompt must explicitly instruct: "Output ONLY the brand name (e.g., 'Nike'), NEVER include the case study description."
+
+---
+
+#### Email 2 — NO CHANGE RECOMMENDED
+
+_Email 2 (audit offer follow-up) is generating positive replies even when Email 1 has hallucination issues. Giselle at Evolve, Jackie at NEOGOV, and Gavin at Palm Beach all replied to Email 2. The template structure works. Keep as-is._
+
+---
+
+### Tongal Outlook to Google (118) — Copy Changes
+
+---
+
+#### Email 1 — BEFORE (actual email sent to Katie Fulton at Sierra Club)
+
+**Subject:** Sierra Club + video production
+
+**Body:**
+```
+Hi Katie Fulton,
+
+Saw that you're leading a team of 10 digital strategists at Sierra Club who are driving innovative fundraising strategies.
+
+Brands like Bank of America, Education.com and Xyzal use Tongal to produce broadcast quality video, animation, and social content through our community of 160,000 creators across 175 countries.
+
+Faster than an agency, a fraction of the cost, and you own everything.
+
+Worth exploring for Sierra Club?
+
+Peter Kim
+Account Manager @ Tongal
+
+P.S. If this is not relevant, please let me know and I'll stop reaching out.
+```
+
+**Their reply:** "I am not interested. Please remove me from your email list." — Classification: NEGATIVE (not interested)
+
+**Problems found in this actual email:**
+- **Non-profit targeting**: Sierra Club is a non-profit environmental org — not in ICP (DTC, CPG, Retail, Health & Wellness)
+- **Used full name "Katie Fulton" instead of first name "Katie"** — feels robotic
+- **Personalization is vague**: "leading a team of 10 digital strategists driving innovative fundraising strategies" sounds like AI scraped LinkedIn and regurgitated it without filtering for relevance to video production
+- Case studies (Bank of America, Education.com, Xyzal) don't match non-profit vertical
+
+---
+
+#### Email 1 — AFTER (suggested 2026-04-08)
+
+_No AFTER needed for this specific lead — Sierra Club should not be in the campaign at all. The fix is TARGETING, not copy._
+
+**Targeting fix required:**
+- Remove non-profit organizations from lead lists
+- Filter for ICP industries only: DTC, CPG, Retail, Health & Wellness, Entertainment, Toys (per April 8 call)
+- Remove education vertical entirely (confirmed with Andy on April 8 call)
+
+---
+
+#### Email 1 — BEFORE (actual email sent to Eliot Cremin at Fivetran)
+
+**Subject:** Fivetran + video production
+
+**Body:**
+```
+Hi Eliot,
+
+Saw that you recently moved up to Senior Product Growth Partner at Fivetran.
+
+Brands like BetterHelp, Samsung and Nike use Tongal to create broadcast quality video, animation, and social content through our global community of 160,000 creators across 175 countries.
+
+Agency-quality output, faster turnaround, lower cost and full ownership.
+
+Worth exploring for Fivetran?
+
+Peter Kim
+Account Manager @ Tongal
+
+PS: If this is not relevant, please let me know and I'll stop reaching out.
+```
+
+**Their reply:** "not relevant, I am not in that role since December" — Classification: NEGATIVE (wrong target)
+
+**Problems found:**
+- **Wrong persona**: Eliot Cremin is an Account Executive in Sales at Fivetran — not a creative/marketing decision-maker
+- **Stale data**: "recently moved up to Senior Product Growth Partner" — she's been in a different role since December (4+ months)
+- Similarly, Jess Tillis (Senior Director, PLG Revenue) at Fivetran also replied "not interested" — PLG Revenue is not the right persona
+
+---
+
+#### Email 1 — AFTER (suggested 2026-04-08)
+
+_No copy AFTER needed — the fix is persona targeting:_
+
+**Persona filter required:**
+- Exclude: Account Executive, BDR, SDR, Sales, PLG, Growth (revenue-side), Client Success, Onboarding Specialist, Partner Marketing
+- Include ONLY: CMO, VP Marketing, VP Creative, Head of Content, Creative Director, Head of Brand, Director of Marketing, Director of Content, Brand Manager (per ICP in CLAUDE.md)
+- Validate job titles against ICP before loading leads
+
+---
+
+### Interested Replies — Email — 2026-04-08
+
+| # | Person | Title | Company | Campaign | City/Region | Quote | New? |
+|---|--------|-------|---------|----------|-------------|-------|------|
+| 1 | Jackie Babe | Senior Creative Director | NEOGOV | C118 | - | "I'd love to see a quick summary and some examples via email" | NEW |
+| 2 | Giselle Rahn | Sr Director, Marketing & Experience Design | Evolve | C86 | - | "Sure if you'd like to send a short summary over email that would be great" | NEW |
+| 3 | Gavin Seidel | Social Studies Dept Head | Palm Beach Schools | C118 | FL | "Would be interested in reviewing a summary emailed so I can share with our Admin team" | NEW (but EDUCATION — flag for removal) |
+| 4 | Scott Donaton | SVP, Global Head Brand & Community | Crunchyroll | C118 | - | "I know James well and am familiar with Tongal. Happy to facilitate a conversation" | From last sync |
+| 5 | Jolanta Aerts | Creative Director | Vanta | C118 | - | "Do you happen to have a portfolio of your best case studies?" | From last sync |
+
+**Patterns:**
+- 3/5 interested replied to Email 2 (audit offer follow-up), not Email 1
+- Positive replies cluster at Senior Director+ level at enterprise companies
+- Palm Beach Schools is education — per April 8 call decision, education is being removed. This is the last education positive we'll see.
+- Crunchyroll was warm (knew Tongal already) — copy didn't have to sell cold
+
+### LinkedIn Campaigns — 2026-04-08
+
+_HeyReach not yet active. LinkedIn contact list (~18,000) still being finalized. Per March 18 call: Tommy to review LinkedIn copy before launch._
+
+> Added: 2026-04-02
+
+---
+
 ## Sync Update — 2026-04-02
 
 **First sync. Full pivot to Google-only sending confirmed. Outlook campaigns paused. Growth campaign paused due to broken variables and 8.6% bounce rate.**
